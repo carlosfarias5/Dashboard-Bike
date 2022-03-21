@@ -1,0 +1,1001 @@
+﻿ID,Marital Status,Gender,Income,Children,Education,Occupation,Home Owner,Cars,Commute Distance,Region,Age,Purchased Bike
+12496,Casado,Feminino,40000,1,Ensino Superiors,Skilled Manual,Yes,0,0-1 Milhas,Europa,42,No
+24107,Casado,Masculino,30000,3,Superior Incompleto,Clerical,Yes,1,0-1 Milhas,Europa,43,No
+14177,Casado,Masculino,80000,5,Superior Incompleto,Professional,No,2,2-5 Milhas,Europa,60,No
+24381,Solteiro,Masculino,70000,0,Ensino Superiors,Professional,Yes,1,5-10 Milhas,Pacífico,41,Yes
+25597,Solteiro,Masculino,30000,0,Ensino Superiors,Clerical,No,0,0-1 Milhas,Europa,36,Yes
+13507,Casado,Feminino,10000,2,Superior Incompleto,Manual,Yes,0,1-2 Milhas,Europa,50,No
+27974,Solteiro,Masculino,160000,2,Ensino Médio,Management,Yes,4,0-1 Milhas,Pacífico,33,Yes
+19364,Casado,Masculino,40000,1,Ensino Superiors,Skilled Manual,Yes,0,0-1 Milhas,Europa,43,Yes
+22155,Casado,Masculino,20000,2,Ensino Médio Incompleto,Clerical,Yes,2,5-10 Milhas,Pacífico,58,No
+19280,Casado,Masculino,20000,2,Superior Incompleto,Manual,Yes,1,0-1 Milhas,Europa,48,Yes
+22173,Casado,Feminino,30000,3,Ensino Médio,Skilled Manual,No,2,1-2 Milhas,Pacífico,54,Yes
+12697,Solteiro,Feminino,90000,0,Ensino Superiors,Professional,No,4,10+ Milhas,Pacífico,36,No
+11434,Casado,Masculino,170000,5,Superior Incompleto,Professional,Yes,4,0-1 Milhas,Europa,55,No
+25323,Casado,Masculino,40000,2,Superior Incompleto,Clerical,Yes,1,1-2 Milhas,Europa,35,Yes
+23542,Solteiro,Masculino,60000,1,Superior Incompleto,Skilled Manual,No,1,0-1 Milhas,Pacífico,45,Yes
+20870,Solteiro,Feminino,10000,2,Ensino Médio,Manual,Yes,1,0-1 Milhas,Europa,38,Yes
+23316,Solteiro,Masculino,30000,3,Superior Incompleto,Clerical,No,2,1-2 Milhas,Pacífico,59,Yes
+12610,Casado,Feminino,30000,1,Ensino Superiors,Clerical,Yes,0,0-1 Milhas,Europa,47,No
+27183,Solteiro,Masculino,40000,2,Superior Incompleto,Clerical,Yes,1,1-2 Milhas,Europa,35,Yes
+25940,Solteiro,Masculino,20000,2,Ensino Médio Incompleto,Clerical,Yes,2,5-10 Milhas,Pacífico,55,Yes
+25598,Casado,Feminino,40000,0,Pós-Graduação,Clerical,Yes,0,0-1 Milhas,Europa,36,Yes
+21564,Solteiro,Feminino,80000,0,Ensino Superiors,Professional,Yes,4,10+ Milhas,Pacífico,35,No
+19193,Solteiro,Masculino,40000,2,Superior Incompleto,Clerical,Yes,0,1-2 Milhas,Europa,35,Yes
+26412,Casado,Feminino,80000,5,Ensino Médio,Management,No,3,5-10 Milhas,Europa,56,No
+27184,Solteiro,Masculino,40000,2,Superior Incompleto,Clerical,No,1,0-1 Milhas,Europa,34,No
+12590,Solteiro,Masculino,30000,1,Ensino Superiors,Clerical,Yes,0,0-1 Milhas,Europa,63,No
+17841,Solteiro,Masculino,30000,0,Superior Incompleto,Clerical,No,1,0-1 Milhas,Europa,29,Yes
+18283,Solteiro,Feminino,100000,0,Ensino Superiors,Professional,No,1,5-10 Milhas,Pacífico,40,No
+18299,Casado,Masculino,70000,5,Superior Incompleto,Skilled Manual,Yes,2,5-10 Milhas,Pacífico,44,No
+16466,Solteiro,Feminino,20000,0,Ensino Médio Incompleto,Manual,No,2,0-1 Milhas,Europa,32,Yes
+19273,Casado,Feminino,20000,2,Superior Incompleto,Manual,Yes,0,0-1 Milhas,Europa,63,No
+22400,Casado,Masculino,10000,0,Superior Incompleto,Manual,No,1,0-1 Milhas,Pacífico,26,Yes
+20942,Solteiro,Feminino,20000,0,Ensino Médio,Manual,No,1,5-10 Milhas,Europa,31,No
+18484,Solteiro,Masculino,80000,2,Ensino Médio,Skilled Manual,No,2,1-2 Milhas,Pacífico,50,Yes
+12291,Solteiro,Masculino,90000,5,Superior Incompleto,Professional,No,2,2-5 Milhas,Europa,62,Yes
+28380,Solteiro,Feminino,10000,5,Ensino Médio Incompleto,Manual,No,2,0-1 Milhas,Europa,41,No
+17891,Casado,Feminino,10000,2,Superior Incompleto,Manual,Yes,1,0-1 Milhas,Europa,50,Yes
+27832,Solteiro,Feminino,30000,0,Superior Incompleto,Clerical,No,1,2-5 Milhas,Europa,30,No
+26863,Solteiro,Masculino,20000,0,Ensino Médio,Manual,No,1,2-5 Milhas,Europa,28,No
+16259,Solteiro,Feminino,10000,4,Ensino Médio Incompleto,Manual,Yes,2,0-1 Milhas,Europa,40,Yes
+27803,Solteiro,Feminino,30000,2,Superior Incompleto,Clerical,No,0,0-1 Milhas,Europa,43,No
+14347,Solteiro,Feminino,40000,2,Ensino Superiors,Management,Yes,2,5-10 Milhas,Pacífico,65,Yes
+17703,Casado,Feminino,10000,1,Pós-Graduação,Manual,Yes,0,0-1 Milhas,Europa,40,No
+17185,Casado,Feminino,170000,4,Superior Incompleto,Professional,No,3,5-10 Milhas,Europa,48,Yes
+29380,Casado,Feminino,20000,3,Ensino Médio,Manual,Yes,0,0-1 Milhas,Europa,41,Yes
+23986,Casado,Feminino,20000,1,Ensino Superiors,Clerical,Yes,0,0-1 Milhas,Europa,66,Yes
+24466,Casado,Feminino,60000,1,Superior Incompleto,Skilled Manual,Yes,1,5-10 Milhas,Pacífico,46,Yes
+29097,Solteiro,Feminino,40000,2,Superior Incompleto,Skilled Manual,Yes,2,5-10 Milhas,Pacífico,52,Yes
+19487,Casado,Masculino,30000,2,Superior Incompleto,Clerical,No,2,0-1 Milhas,Europa,42,No
+14939,Casado,Masculino,40000,0,Ensino Superiors,Clerical,Yes,0,0-1 Milhas,Europa,39,Yes
+13826,Solteiro,Feminino,30000,0,Superior Incompleto,Clerical,No,1,0-1 Milhas,Europa,28,No
+20619,Solteiro,Masculino,80000,0,Ensino Superiors,Professional,No,4,10+ Milhas,Pacífico,35,No
+12558,Casado,Feminino,20000,1,Ensino Superiors,Clerical,Yes,0,0-1 Milhas,Europa,65,No
+24871,Solteiro,Feminino,90000,4,Ensino Médio,Management,No,3,5-10 Milhas,Europa,56,No
+17319,Solteiro,Feminino,70000,0,Ensino Superiors,Professional,No,1,5-10 Milhas,Pacífico,42,No
+28906,Casado,Masculino,80000,4,Ensino Médio,Professional,Yes,2,10+ Milhas,Europa,54,No
+12808,Casado,Masculino,40000,0,Ensino Superiors,Clerical,Yes,0,0-1 Milhas,Europa,38,Yes
+20567,Casado,Masculino,130000,4,Superior Incompleto,Professional,No,4,5-10 Milhas,Europa,61,Yes
+25502,Casado,Feminino,40000,1,Ensino Superiors,Skilled Manual,Yes,0,0-1 Milhas,Europa,43,Yes
+15580,Casado,Masculino,60000,2,Ensino Superiors,Professional,Yes,1,2-5 Milhas,Pacífico,38,Yes
+24185,Solteiro,Feminino,10000,1,Ensino Médio,Manual,No,1,1-2 Milhas,Europa,45,No
+19291,Solteiro,Feminino,10000,2,Ensino Médio,Manual,Yes,0,0-1 Milhas,Europa,35,No
+16713,Casado,Masculino,40000,2,Ensino Superiors,Management,Yes,1,0-1 Milhas,Pacífico,52,Yes
+16185,Solteiro,Masculino,60000,4,Ensino Superiors,Professional,Yes,3,10+ Milhas,Pacífico,41,No
+14927,Casado,Feminino,30000,1,Ensino Superiors,Clerical,Yes,0,0-1 Milhas,Europa,37,Yes
+29337,Solteiro,Masculino,30000,2,Superior Incompleto,Clerical,Yes,2,5-10 Milhas,Pacífico,68,No
+29355,Casado,Feminino,40000,0,Pós-Graduação,Clerical,Yes,0,0-1 Milhas,Europa,37,Yes
+25303,Solteiro,Masculino,30000,0,Ensino Médio,Manual,Yes,1,2-5 Milhas,Europa,33,Yes
+14813,Solteiro,Feminino,20000,4,Ensino Médio,Manual,Yes,1,0-1 Milhas,Europa,43,Yes
+16438,Casado,Feminino,10000,0,Ensino Médio Incompleto,Manual,No,2,0-1 Milhas,Europa,30,No
+14238,Casado,Masculino,120000,0,Ensino Médio Incompleto,Professional,Yes,4,10+ Milhas,Pacífico,36,Yes
+16200,Solteiro,Feminino,10000,0,Ensino Médio Incompleto,Manual,No,2,0-1 Milhas,Europa,35,No
+24857,Casado,Feminino,130000,3,Ensino Médio,Professional,Yes,4,0-1 Milhas,Europa,52,No
+26956,Solteiro,Feminino,20000,0,Superior Incompleto,Manual,No,1,2-5 Milhas,Europa,36,Yes
+14517,Casado,Feminino,20000,3,Ensino Médio,Skilled Manual,No,2,1-2 Milhas,Pacífico,62,No
+12678,Solteiro,Feminino,130000,4,Ensino Médio,Management,Yes,4,0-1 Milhas,Pacífico,31,No
+16188,Solteiro,Feminino,20000,0,Ensino Médio Incompleto,Manual,No,2,1-2 Milhas,Europa,26,No
+27969,Casado,Masculino,80000,0,Ensino Superiors,Professional,Yes,2,10+ Milhas,Pacífico,29,Yes
+15752,Casado,Masculino,80000,2,Ensino Médio,Skilled Manual,No,2,1-2 Milhas,Pacífico,50,Yes
+27745,Solteiro,Masculino,40000,2,Ensino Superiors,Management,Yes,2,5-10 Milhas,Pacífico,63,Yes
+20828,Casado,Feminino,30000,4,Pós-Graduação,Clerical,Yes,0,0-1 Milhas,Europa,45,Yes
+19461,Solteiro,Feminino,10000,4,Ensino Médio Incompleto,Manual,Yes,2,0-1 Milhas,Europa,40,No
+26941,Casado,Masculino,30000,0,Ensino Superiors,Clerical,Yes,0,0-1 Milhas,Europa,47,Yes
+28412,Solteiro,Masculino,20000,0,Ensino Médio,Manual,No,1,2-5 Milhas,Europa,29,No
+24485,Solteiro,Masculino,40000,2,Ensino Superiors,Management,No,1,5-10 Milhas,Pacífico,52,Yes
+16514,Solteiro,Masculino,10000,0,Superior Incompleto,Manual,Yes,1,1-2 Milhas,Pacífico,26,Yes
+17191,Solteiro,Masculino,130000,3,Superior Incompleto,Professional,No,3,0-1 Milhas,Europa,51,Yes
+19608,Casado,Masculino,80000,5,Ensino Superiors,Professional,Yes,4,1-2 Milhas,Pacífico,40,No
+24119,Solteiro,Masculino,30000,0,Superior Incompleto,Clerical,No,1,2-5 Milhas,Europa,29,No
+25458,Casado,Masculino,20000,1,Ensino Médio,Manual,No,1,1-2 Milhas,Europa,40,Yes
+26886,Solteiro,Feminino,30000,0,Superior Incompleto,Clerical,No,1,0-1 Milhas,Europa,29,Yes
+28436,Solteiro,Masculino,30000,0,Superior Incompleto,Clerical,No,1,0-1 Milhas,Europa,30,Yes
+19562,Solteiro,Feminino,60000,2,Ensino Superiors,Professional,Yes,1,2-5 Milhas,Pacífico,37,Yes
+15608,Solteiro,Feminino,30000,0,Superior Incompleto,Clerical,No,1,2-5 Milhas,Europa,33,No
+16487,Solteiro,Feminino,30000,3,Ensino Médio,Skilled Manual,Yes,2,5-10 Milhas,Pacífico,55,No
+17197,Solteiro,Feminino,90000,5,Superior Incompleto,Professional,Yes,2,10+ Milhas,Europa,62,No
+12507,Casado,Masculino,30000,1,Superior Incompleto,Clerical,Yes,1,0-1 Milhas,Europa,43,No
+23940,Casado,Masculino,40000,1,Ensino Superiors,Skilled Manual,Yes,1,0-1 Milhas,Europa,44,Yes
+19441,Solteiro,Masculino,40000,0,Pós-Graduação,Clerical,Yes,0,0-1 Milhas,Europa,37,Yes
+26852,Casado,Feminino,20000,3,Ensino Médio,Manual,Yes,2,0-1 Milhas,Europa,43,No
+12274,Solteiro,Masculino,10000,2,Ensino Médio,Manual,Yes,0,0-1 Milhas,Europa,35,No
+20236,Solteiro,Masculino,60000,3,Ensino Superiors,Professional,No,2,0-1 Milhas,Pacífico,43,Yes
+24149,Casado,Masculino,10000,2,Superior Incompleto,Manual,Yes,0,1-2 Milhas,Europa,49,No
+26139,Solteiro,Masculino,60000,1,Superior Incompleto,Skilled Manual,Yes,1,5-10 Milhas,Pacífico,45,No
+18491,Solteiro,Feminino,70000,2,Ensino Médio,Professional,Yes,2,5-10 Milhas,Pacífico,49,Yes
+22707,Solteiro,Feminino,30000,0,Superior Incompleto,Clerical,No,1,2-5 Milhas,Europa,30,No
+20430,Casado,Masculino,70000,2,Superior Incompleto,Skilled Manual,Yes,2,5-10 Milhas,Pacífico,52,Yes
+27494,Solteiro,Feminino,40000,2,Superior Incompleto,Skilled Manual,No,2,1-2 Milhas,Pacífico,53,Yes
+26829,Casado,Feminino,40000,0,Ensino Superiors,Clerical,Yes,0,0-1 Milhas,Europa,38,Yes
+28395,Solteiro,Masculino,40000,0,Ensino Superiors,Professional,No,0,0-1 Milhas,Europa,39,Yes
+21006,Solteiro,Feminino,20000,1,Superior Incompleto,Manual,No,0,0-1 Milhas,Europa,46,Yes
+14682,Solteiro,Feminino,70000,0,Ensino Superiors,Professional,No,1,5-10 Milhas,Pacífico,38,No
+17650,Solteiro,Feminino,40000,2,Superior Incompleto,Clerical,Yes,2,1-2 Milhas,Europa,35,No
+29191,Solteiro,Feminino,130000,1,Pós-Graduação,Management,No,1,0-1 Milhas,Pacífico,36,Yes
+15030,Casado,Masculino,20000,0,Ensino Superiors,Clerical,Yes,0,0-1 Milhas,Pacífico,26,Yes
+24140,Solteiro,Masculino,10000,0,Pós-Graduação,Manual,No,0,0-1 Milhas,Europa,30,Yes
+22496,Casado,Feminino,30000,1,Ensino Superiors,Skilled Manual,Yes,2,0-1 Milhas,Europa,42,No
+24065,Solteiro,Feminino,20000,2,Ensino Médio,Manual,Yes,0,0-1 Milhas,Europa,40,Yes
+19914,Casado,Masculino,80000,5,Ensino Superiors,Management,Yes,2,2-5 Milhas,Europa,62,No
+12871,Solteiro,Feminino,30000,0,Superior Incompleto,Clerical,No,1,2-5 Milhas,Europa,29,No
+22988,Casado,Feminino,40000,2,Ensino Superiors,Management,Yes,2,5-10 Milhas,Pacífico,66,Yes
+15922,Casado,Masculino,150000,2,Ensino Médio,Professional,Yes,4,0-1 Milhas,Europa,48,No
+12344,Solteiro,Feminino,80000,0,Ensino Superiors,Professional,No,3,10+ Milhas,Pacífico,31,No
+23627,Solteiro,Feminino,100000,3,Superior Incompleto,Management,No,4,5-10 Milhas,Europa,56,No
+27775,Solteiro,Feminino,40000,0,Ensino Superiors,Clerical,No,0,0-1 Milhas,Europa,38,Yes
+29301,Casado,Masculino,80000,5,Ensino Superiors,Professional,Yes,4,1-2 Milhas,Pacífico,40,No
+12716,Solteiro,Masculino,30000,0,Superior Incompleto,Clerical,Yes,1,2-5 Milhas,Europa,32,No
+12472,Casado,Masculino,30000,1,Ensino Superiors,Clerical,Yes,1,2-5 Milhas,Europa,39,No
+20970,Solteiro,Masculino,10000,2,Superior Incompleto,Manual,Yes,1,0-1 Milhas,Europa,52,Yes
+26818,Solteiro,Masculino,10000,3,Ensino Médio,Manual,Yes,1,0-1 Milhas,Europa,39,Yes
+12993,Casado,Masculino,60000,2,Ensino Superiors,Professional,Yes,1,2-5 Milhas,Pacífico,37,No
+14192,Casado,Masculino,90000,4,Ensino Médio,Management,Yes,3,5-10 Milhas,Europa,56,Yes
+19477,Casado,Masculino,40000,0,Ensino Superiors,Professional,Yes,0,0-1 Milhas,Europa,40,Yes
+26796,Solteiro,Masculino,40000,2,Ensino Superiors,Management,Yes,2,5-10 Milhas,Pacífico,65,Yes
+21094,Solteiro,Feminino,30000,2,Superior Incompleto,Clerical,Yes,2,0-1 Milhas,Europa,42,No
+12234,Casado,Masculino,10000,2,Superior Incompleto,Manual,Yes,1,2-5 Milhas,Europa,52,No
+28683,Solteiro,Feminino,10000,1,Ensino Médio,Manual,No,1,5-10 Milhas,Europa,35,Yes
+17994,Solteiro,Masculino,20000,2,Ensino Médio,Manual,Yes,2,0-1 Milhas,Europa,42,No
+24273,Casado,Feminino,20000,2,Ensino Médio Incompleto,Clerical,Yes,2,5-10 Milhas,Pacífico,55,Yes
+26547,Solteiro,Feminino,30000,2,Superior Incompleto,Clerical,No,2,5-10 Milhas,Pacífico,60,Yes
+22500,Solteiro,Masculino,40000,0,Ensino Superiors,Professional,No,0,0-1 Milhas,Europa,40,Yes
+23993,Solteiro,Feminino,10000,0,Superior Incompleto,Manual,No,1,0-1 Milhas,Pacífico,26,Yes
+14832,Casado,Masculino,40000,1,Ensino Superiors,Skilled Manual,Yes,0,0-1 Milhas,Europa,42,Yes
+16614,Casado,Feminino,80000,0,Ensino Superiors,Professional,Yes,3,10+ Milhas,Pacífico,32,No
+20877,Solteiro,Masculino,30000,1,Ensino Superiors,Clerical,Yes,0,1-2 Milhas,Europa,37,Yes
+20729,Casado,Feminino,40000,2,Superior Incompleto,Clerical,No,1,0-1 Milhas,Europa,34,No
+22464,Casado,Masculino,40000,0,Pós-Graduação,Clerical,Yes,0,0-1 Milhas,Europa,37,Yes
+19475,Casado,Feminino,40000,0,Ensino Superiors,Professional,No,0,0-1 Milhas,Europa,40,Yes
+19675,Casado,Masculino,20000,4,Ensino Médio,Skilled Manual,Yes,2,5-10 Milhas,Pacífico,60,No
+12728,Solteiro,Masculino,30000,0,Superior Incompleto,Clerical,No,1,1-2 Milhas,Europa,27,No
+26154,Casado,Masculino,60000,1,Superior Incompleto,Skilled Manual,Yes,1,5-10 Milhas,Pacífico,43,Yes
+29117,Solteiro,Masculino,100000,1,Ensino Superiors,Management,No,3,0-1 Milhas,Pacífico,48,No
+17845,Solteiro,Feminino,20000,0,Ensino Médio Incompleto,Manual,No,2,1-2 Milhas,Europa,32,No
+25058,Casado,Masculino,100000,1,Ensino Superiors,Management,Yes,3,2-5 Milhas,Pacífico,47,No
+23426,Solteiro,Masculino,80000,5,Pós-Graduação,Management,Yes,3,0-1 Milhas,Pacífico,40,No
+14798,Solteiro,Feminino,10000,4,Ensino Médio Incompleto,Manual,Yes,2,0-1 Milhas,Europa,41,Yes
+12664,Casado,Feminino,130000,5,Superior Incompleto,Professional,Yes,4,0-1 Milhas,Europa,59,No
+23979,Solteiro,Masculino,10000,2,Superior Incompleto,Manual,No,0,0-1 Milhas,Europa,50,No
+25605,Solteiro,Feminino,20000,2,Superior Incompleto,Manual,No,1,0-1 Milhas,Europa,54,Yes
+20797,Casado,Feminino,10000,1,Ensino Superiors,Manual,Yes,0,0-1 Milhas,Europa,48,No
+21980,Solteiro,Feminino,60000,1,Ensino Superiors,Professional,Yes,1,5-10 Milhas,Pacífico,44,Yes
+25460,Casado,Feminino,20000,2,Ensino Médio,Manual,Yes,0,0-1 Milhas,Europa,40,Yes
+29181,Solteiro,Feminino,60000,2,Ensino Superiors,Professional,No,1,0-1 Milhas,Pacífico,38,Yes
+24279,Solteiro,Masculino,40000,2,Superior Incompleto,Skilled Manual,No,2,1-2 Milhas,Pacífico,52,No
+22402,Casado,Masculino,10000,0,Superior Incompleto,Manual,Yes,1,2-5 Milhas,Pacífico,25,Yes
+15465,Casado,Feminino,10000,0,Superior Incompleto,Manual,No,1,0-1 Milhas,Pacífico,25,No
+26757,Solteiro,Masculino,90000,1,Ensino Superiors,Professional,Yes,1,2-5 Milhas,Pacífico,47,Yes
+14233,Solteiro,Masculino,100000,0,Ensino Médio,Management,Yes,3,10+ Milhas,Pacífico,35,No
+14058,Solteiro,Masculino,70000,0,Ensino Superiors,Professional,No,1,5-10 Milhas,Pacífico,41,Yes
+12273,Casado,Masculino,30000,1,Ensino Superiors,Clerical,Yes,0,0-1 Milhas,Europa,47,No
+17203,Casado,Feminino,130000,4,Superior Incompleto,Professional,Yes,4,5-10 Milhas,Europa,61,Yes
+18144,Casado,Feminino,80000,5,Ensino Superiors,Management,Yes,2,2-5 Milhas,Europa,61,No
+23963,Casado,Masculino,10000,0,Ensino Médio Incompleto,Manual,No,2,0-1 Milhas,Europa,33,No
+17907,Casado,Feminino,10000,0,Superior Incompleto,Manual,Yes,1,2-5 Milhas,Pacífico,27,No
+19442,Solteiro,Masculino,50000,0,Pós-Graduação,Skilled Manual,Yes,0,0-1 Milhas,Europa,37,Yes
+17504,Solteiro,Feminino,80000,2,Superior Incompleto,Skilled Manual,Yes,2,5-10 Milhas,Pacífico,52,Yes
+12253,Solteiro,Feminino,20000,0,Superior Incompleto,Manual,Yes,0,0-1 Milhas,Pacífico,29,Yes
+27304,Solteiro,Feminino,110000,2,Superior Incompleto,Professional,No,3,5-10 Milhas,Europa,48,No
+14191,Casado,Masculino,160000,4,Superior Incompleto,Professional,No,2,10+ Milhas,Europa,55,Yes
+12212,Casado,Feminino,10000,0,Pós-Graduação,Manual,Yes,0,0-1 Milhas,Europa,37,Yes
+25529,Solteiro,Masculino,10000,1,Pós-Graduação,Manual,Yes,0,0-1 Milhas,Europa,44,No
+22170,Casado,Feminino,30000,3,Superior Incompleto,Clerical,No,2,1-2 Milhas,Pacífico,55,Yes
+19445,Casado,Feminino,10000,2,Ensino Médio,Manual,No,1,0-1 Milhas,Europa,38,No
+15265,Solteiro,Masculino,40000,2,Ensino Superiors,Management,Yes,2,5-10 Milhas,Pacífico,66,Yes
+28918,Casado,Feminino,130000,4,Ensino Médio,Management,No,4,10+ Milhas,Europa,58,No
+15799,Casado,Feminino,90000,1,Ensino Superiors,Professional,Yes,1,2-5 Milhas,Pacífico,47,Yes
+11047,Casado,Feminino,30000,3,Ensino Médio,Skilled Manual,No,2,1-2 Milhas,Pacífico,56,Yes
+18151,Solteiro,Masculino,80000,5,Superior Incompleto,Professional,No,2,10+ Milhas,Europa,59,No
+20606,Casado,Feminino,70000,0,Ensino Superiors,Professional,Yes,4,10+ Milhas,Pacífico,32,Yes
+19482,Casado,Masculino,30000,1,Superior Incompleto,Clerical,Yes,1,0-1 Milhas,Europa,44,Yes
+16489,Casado,Masculino,30000,3,Ensino Médio,Skilled Manual,Yes,2,5-10 Milhas,Pacífico,55,No
+26944,Solteiro,Masculino,10000,2,Ensino Médio,Manual,Yes,0,0-1 Milhas,Europa,36,Yes
+15682,Solteiro,Feminino,80000,5,Ensino Superiors,Management,Yes,2,10+ Milhas,Europa,62,No
+26032,Casado,Feminino,70000,5,Ensino Superiors,Professional,Yes,4,10+ Milhas,Pacífico,41,No
+17843,Solteiro,Feminino,10000,0,Ensino Médio Incompleto,Manual,No,2,0-1 Milhas,Europa,32,No
+25559,Solteiro,Masculino,20000,0,Ensino Superiors,Clerical,Yes,0,0-1 Milhas,Pacífico,25,Yes
+16209,Solteiro,Feminino,50000,0,Pós-Graduação,Skilled Manual,Yes,0,1-2 Milhas,Europa,36,No
+11147,Casado,Masculino,60000,2,Pós-Graduação,Management,Yes,1,0-1 Milhas,Pacífico,67,Yes
+15214,Solteiro,Feminino,100000,0,Pós-Graduação,Management,No,1,1-2 Milhas,Pacífico,39,Yes
+11453,Solteiro,Masculino,80000,0,Ensino Superiors,Professional,No,3,10+ Milhas,Pacífico,33,Yes
+24584,Solteiro,Masculino,60000,0,Ensino Superiors,Professional,No,3,2-5 Milhas,Pacífico,31,No
+12585,Casado,Masculino,10000,1,Ensino Médio,Manual,Yes,0,2-5 Milhas,Pacífico,27,Yes
+18626,Solteiro,Masculino,40000,2,Superior Incompleto,Clerical,Yes,0,1-2 Milhas,Europa,33,Yes
+29298,Solteiro,Feminino,60000,1,Superior Incompleto,Skilled Manual,Yes,1,5-10 Milhas,Pacífico,46,Yes
+24842,Solteiro,Feminino,90000,3,Ensino Médio,Professional,No,1,2-5 Milhas,Europa,51,No
+15657,Casado,Masculino,30000,3,Pós-Graduação,Clerical,Yes,0,0-1 Milhas,Europa,46,Yes
+11415,Solteiro,Masculino,90000,5,Superior Incompleto,Professional,No,2,10+ Milhas,Europa,62,No
+28729,Solteiro,Feminino,20000,0,Ensino Médio Incompleto,Manual,Yes,2,1-2 Milhas,Europa,26,Yes
+22633,Solteiro,Feminino,40000,0,Pós-Graduação,Clerical,Yes,0,0-1 Milhas,Europa,37,Yes
+25649,Solteiro,Feminino,30000,3,Superior Incompleto,Clerical,Yes,0,0-1 Milhas,Europa,42,Yes
+14669,Casado,Feminino,80000,4,Pós-Graduação,Management,Yes,1,0-1 Milhas,Pacífico,36,No
+19299,Casado,Feminino,50000,0,Pós-Graduação,Skilled Manual,Yes,0,0-1 Milhas,Europa,36,Yes
+20946,Solteiro,Feminino,30000,0,Superior Incompleto,Clerical,No,1,2-5 Milhas,Europa,30,No
+11451,Solteiro,Masculino,70000,0,Ensino Superiors,Professional,No,4,10+ Milhas,Pacífico,31,Yes
+25553,Casado,Masculino,30000,1,Ensino Superiors,Clerical,Yes,0,0-1 Milhas,Europa,65,Yes
+27951,Solteiro,Masculino,80000,4,Superior Incompleto,Professional,No,2,2-5 Milhas,Europa,54,Yes
+25026,Casado,Masculino,20000,2,Ensino Médio Incompleto,Clerical,Yes,3,5-10 Milhas,Pacífico,54,No
+13673,Solteiro,Feminino,20000,0,Ensino Médio Incompleto,Manual,No,2,0-1 Milhas,Europa,25,No
+16043,Solteiro,Masculino,10000,1,Ensino Superiors,Manual,Yes,0,0-1 Milhas,Europa,48,No
+22399,Solteiro,Masculino,10000,0,Superior Incompleto,Manual,Yes,1,1-2 Milhas,Pacífico,26,Yes
+27696,Casado,Masculino,60000,1,Ensino Superiors,Professional,Yes,1,5-10 Milhas,Pacífico,43,Yes
+25313,Solteiro,Masculino,10000,0,Ensino Médio Incompleto,Manual,No,2,1-2 Milhas,Europa,35,No
+13813,Casado,Feminino,30000,3,Superior Incompleto,Clerical,No,0,0-1 Milhas,Europa,42,No
+18711,Solteiro,Feminino,70000,5,Ensino Superiors,Professional,Yes,4,10+ Milhas,Pacífico,39,No
+19650,Casado,Feminino,30000,2,Superior Incompleto,Clerical,No,2,0-1 Milhas,Pacífico,67,No
+14135,Casado,Masculino,20000,1,Superior Incompleto,Manual,Yes,0,1-2 Milhas,Europa,63,No
+12833,Solteiro,Feminino,20000,3,Ensino Médio,Manual,Yes,1,0-1 Milhas,Europa,42,Yes
+26849,Casado,Masculino,10000,3,Ensino Médio Incompleto,Manual,Yes,2,0-1 Milhas,Europa,43,No
+20962,Casado,Feminino,20000,1,Pós-Graduação,Clerical,Yes,0,0-1 Milhas,Europa,45,No
+28915,Solteiro,Masculino,80000,5,Ensino Médio,Management,Yes,3,10+ Milhas,Europa,57,No
+22830,Casado,Masculino,120000,4,Superior Incompleto,Management,Yes,3,10+ Milhas,Europa,56,No
+14777,Casado,Feminino,40000,0,Ensino Superiors,Clerical,Yes,0,0-1 Milhas,Europa,38,Yes
+12591,Casado,Feminino,30000,4,Pós-Graduação,Clerical,Yes,0,0-1 Milhas,Europa,45,No
+24174,Casado,Masculino,20000,0,Ensino Superiors,Clerical,Yes,0,0-1 Milhas,Pacífico,27,Yes
+24611,Solteiro,Masculino,90000,0,Ensino Superiors,Professional,No,4,10+ Milhas,Pacífico,35,Yes
+11340,Casado,Feminino,10000,1,Pós-Graduação,Clerical,Yes,0,0-1 Milhas,Europa,70,Yes
+25693,Solteiro,Feminino,30000,5,Pós-Graduação,Clerical,Yes,0,0-1 Milhas,Europa,44,Yes
+25555,Casado,Feminino,10000,0,Superior Incompleto,Manual,No,1,0-1 Milhas,Pacífico,26,Yes
+22006,Casado,Masculino,70000,5,Superior Incompleto,Skilled Manual,Yes,3,5-10 Milhas,Pacífico,46,No
+20060,Solteiro,Feminino,30000,0,Ensino Médio,Manual,No,1,2-5 Milhas,Europa,34,Yes
+17702,Casado,Masculino,10000,1,Pós-Graduação,Manual,Yes,0,0-1 Milhas,Europa,37,No
+12503,Solteiro,Feminino,30000,3,Superior Incompleto,Clerical,Yes,2,0-1 Milhas,Europa,27,No
+23908,Solteiro,Masculino,30000,1,Ensino Superiors,Clerical,No,1,0-1 Milhas,Europa,39,Yes
+22527,Solteiro,Feminino,20000,0,Ensino Médio,Manual,No,1,2-5 Milhas,Europa,29,No
+19057,Casado,Feminino,120000,3,Ensino Superiors,Management,No,2,10+ Milhas,Europa,52,Yes
+18494,Casado,Masculino,110000,5,Ensino Superiors,Management,Yes,4,2-5 Milhas,Pacífico,48,Yes
+11249,Casado,Feminino,130000,3,Superior Incompleto,Professional,Yes,3,0-1 Milhas,Europa,51,Yes
+21568,Casado,Feminino,100000,0,Ensino Médio,Management,Yes,4,10+ Milhas,Pacífico,34,Yes
+13981,Casado,Feminino,10000,5,Ensino Médio,Skilled Manual,No,3,1-2 Milhas,Pacífico,62,No
+23432,Solteiro,Masculino,70000,0,Ensino Superiors,Professional,Yes,1,5-10 Milhas,Pacífico,37,Yes
+22931,Casado,Masculino,100000,5,Pós-Graduação,Management,No,1,1-2 Milhas,Pacífico,78,Yes
+18172,Casado,Masculino,130000,4,Ensino Médio,Professional,Yes,3,0-1 Milhas,Europa,55,No
+12666,Solteiro,Masculino,60000,0,Ensino Superiors,Professional,No,4,2-5 Milhas,Pacífico,31,No
+20598,Casado,Masculino,100000,3,Ensino Médio Incompleto,Professional,Yes,0,10+ Milhas,Europa,59,Yes
+21375,Solteiro,Masculino,20000,2,Ensino Médio Incompleto,Clerical,Yes,2,5-10 Milhas,Pacífico,57,No
+20839,Solteiro,Feminino,30000,3,Pós-Graduação,Clerical,Yes,0,0-1 Milhas,Europa,47,Yes
+21738,Casado,Masculino,20000,1,Pós-Graduação,Clerical,Yes,0,0-1 Milhas,Europa,43,No
+14164,Solteiro,Feminino,50000,0,Pós-Graduação,Skilled Manual,Yes,0,0-1 Milhas,Europa,36,Yes
+14193,Solteiro,Feminino,100000,3,Superior Incompleto,Management,Yes,4,10+ Milhas,Europa,56,No
+12705,Casado,Masculino,150000,0,Ensino Superiors,Management,Yes,4,0-1 Milhas,Pacífico,37,Yes
+22672,Solteiro,Feminino,30000,2,Superior Incompleto,Clerical,Yes,0,0-1 Milhas,Europa,43,No
+26219,Casado,Feminino,40000,1,Ensino Superiors,Skilled Manual,Yes,1,1-2 Milhas,Europa,33,Yes
+28468,Casado,Feminino,10000,2,Superior Incompleto,Manual,Yes,0,1-2 Milhas,Europa,51,No
+23419,Solteiro,Feminino,70000,5,Ensino Superiors,Professional,Yes,3,10+ Milhas,Pacífico,39,No
+17964,Casado,Masculino,40000,0,Pós-Graduação,Clerical,Yes,0,0-1 Milhas,Europa,37,Yes
+20919,Solteiro,Feminino,30000,2,Superior Incompleto,Clerical,Yes,2,0-1 Milhas,Europa,42,No
+20927,Solteiro,Feminino,20000,5,Ensino Médio,Manual,Yes,2,0-1 Milhas,Europa,27,No
+13133,Solteiro,Masculino,100000,5,Ensino Superiors,Professional,Yes,1,5-10 Milhas,Pacífico,47,Yes
+19626,Casado,Masculino,70000,5,Superior Incompleto,Skilled Manual,Yes,3,5-10 Milhas,Pacífico,45,No
+21039,Solteiro,Feminino,50000,0,Pós-Graduação,Skilled Manual,No,0,0-1 Milhas,Europa,37,Yes
+12231,Solteiro,Feminino,10000,2,Superior Incompleto,Manual,Yes,0,0-1 Milhas,Europa,51,Yes
+25665,Solteiro,Feminino,20000,0,Ensino Médio,Manual,No,1,1-2 Milhas,Europa,28,No
+24061,Casado,Masculino,10000,4,Ensino Médio Incompleto,Manual,Yes,1,0-1 Milhas,Europa,40,Yes
+26879,Solteiro,Feminino,20000,0,Ensino Médio,Manual,No,1,2-5 Milhas,Europa,30,No
+12284,Casado,Feminino,30000,0,Ensino Superiors,Clerical,No,0,0-1 Milhas,Europa,36,Yes
+26654,Casado,Feminino,90000,1,Pós-Graduação,Management,Yes,0,0-1 Milhas,Pacífico,37,Yes
+14545,Casado,Feminino,10000,2,Superior Incompleto,Manual,Yes,0,1-2 Milhas,Europa,49,No
+24201,Casado,Feminino,10000,2,Ensino Médio,Manual,Yes,0,0-1 Milhas,Europa,37,Yes
+20625,Casado,Masculino,100000,0,Ensino Médio,Management,Yes,3,10+ Milhas,Pacífico,35,Yes
+16390,Solteiro,Masculino,30000,1,Ensino Superiors,Clerical,No,0,0-1 Milhas,Europa,38,Yes
+14804,Solteiro,Feminino,10000,3,Ensino Médio Incompleto,Manual,Yes,2,0-1 Milhas,Europa,43,No
+12629,Solteiro,Masculino,20000,1,Superior Incompleto,Manual,No,0,0-1 Milhas,Europa,37,No
+14696,Solteiro,Masculino,10000,0,Ensino Médio Incompleto,Manual,No,2,0-1 Milhas,Europa,34,No
+22005,Casado,Feminino,70000,5,Superior Incompleto,Skilled Manual,No,3,5-10 Milhas,Pacífico,46,No
+14544,Solteiro,Masculino,10000,1,Superior Incompleto,Manual,Yes,0,0-1 Milhas,Europa,49,No
+14312,Casado,Feminino,60000,1,Superior Incompleto,Skilled Manual,Yes,1,5-10 Milhas,Pacífico,45,No
+29120,Solteiro,Feminino,100000,1,Ensino Superiors,Management,Yes,4,2-5 Milhas,Pacífico,48,No
+24187,Solteiro,Feminino,30000,3,Pós-Graduação,Clerical,No,0,0-1 Milhas,Europa,46,Yes
+15758,Casado,Masculino,130000,0,Pós-Graduação,Management,Yes,0,5-10 Milhas,Pacífico,48,No
+29094,Casado,Masculino,30000,3,Ensino Médio,Skilled Manual,Yes,2,5-10 Milhas,Pacífico,54,Yes
+28319,Solteiro,Feminino,60000,1,Superior Incompleto,Skilled Manual,No,1,0-1 Milhas,Pacífico,46,Yes
+16406,Casado,Masculino,40000,0,Ensino Superiors,Clerical,No,0,0-1 Milhas,Europa,38,Yes
+20923,Casado,Feminino,40000,1,Ensino Superiors,Skilled Manual,Yes,0,0-1 Milhas,Europa,42,Yes
+11378,Solteiro,Feminino,10000,1,Ensino Médio,Manual,No,1,2-5 Milhas,Europa,46,Yes
+20851,Solteiro,Masculino,20000,0,Superior Incompleto,Manual,No,1,2-5 Milhas,Europa,36,Yes
+21557,Solteiro,Feminino,110000,0,Superior Incompleto,Management,Yes,3,10+ Milhas,Pacífico,32,Yes
+26663,Solteiro,Feminino,60000,2,Ensino Superiors,Professional,No,1,0-1 Milhas,Pacífico,39,Yes
+11896,Casado,Masculino,100000,1,Pós-Graduação,Management,Yes,0,2-5 Milhas,Pacífico,36,Yes
+14189,Casado,Feminino,90000,4,Ensino Médio,Professional,No,2,2-5 Milhas,Europa,54,Yes
+13136,Casado,Feminino,30000,2,Superior Incompleto,Clerical,No,2,5-10 Milhas,Pacífico,69,No
+25906,Solteiro,Feminino,10000,5,Ensino Médio,Skilled Manual,No,2,1-2 Milhas,Pacífico,62,No
+17926,Casado,Feminino,20000,0,Ensino Superiors,Clerical,No,0,0-1 Milhas,Pacífico,28,Yes
+26928,Solteiro,Masculino,30000,1,Ensino Superiors,Clerical,Yes,0,0-1 Milhas,Europa,62,Yes
+20897,Casado,Feminino,30000,1,Ensino Superiors,Skilled Manual,Yes,2,0-1 Milhas,Europa,40,No
+28207,Casado,Masculino,80000,4,Pós-Graduação,Management,Yes,1,0-1 Milhas,Pacífico,36,Yes
+25923,Solteiro,Masculino,10000,2,Ensino Médio Incompleto,Clerical,Yes,2,5-10 Milhas,Pacífico,58,No
+11000,Casado,Masculino,90000,2,Ensino Superiors,Professional,Yes,0,1-2 Milhas,Pacífico,40,Yes
+20974,Casado,Masculino,10000,2,Ensino Superiors,Clerical,Yes,1,0-1 Milhas,Europa,66,No
+28758,Casado,Masculino,40000,2,Superior Incompleto,Clerical,Yes,1,1-2 Milhas,Europa,35,Yes
+11381,Casado,Feminino,20000,2,Superior Incompleto,Manual,Yes,1,2-5 Milhas,Europa,47,Yes
+17522,Casado,Masculino,120000,4,Ensino Superiors,Management,Yes,1,2-5 Milhas,Pacífico,47,No
+21207,Casado,Masculino,60000,1,Superior Incompleto,Skilled Manual,Yes,1,5-10 Milhas,Pacífico,46,No
+28102,Casado,Masculino,20000,4,Ensino Médio,Skilled Manual,Yes,2,5-10 Milhas,Pacífico,58,Yes
+23105,Solteiro,Masculino,40000,3,Ensino Médio Incompleto,Clerical,No,2,5-10 Milhas,Pacífico,52,Yes
+18740,Casado,Masculino,80000,5,Ensino Superiors,Professional,No,1,0-1 Milhas,Pacífico,47,Yes
+21213,Solteiro,Masculino,70000,0,Ensino Superiors,Professional,No,1,5-10 Milhas,Pacífico,41,No
+17352,Casado,Masculino,50000,2,Pós-Graduação,Management,Yes,1,5-10 Milhas,Pacífico,64,Yes
+14154,Casado,Masculino,30000,0,Ensino Superiors,Clerical,Yes,0,0-1 Milhas,Europa,35,Yes
+19066,Casado,Masculino,130000,4,Superior Incompleto,Professional,No,3,10+ Milhas,Europa,54,No
+11386,Casado,Feminino,30000,3,Ensino Superiors,Clerical,Yes,0,0-1 Milhas,Europa,45,No
+20228,Casado,Masculino,100000,0,Pós-Graduação,Management,Yes,0,2-5 Milhas,Pacífico,40,Yes
+16675,Solteiro,Feminino,160000,0,Pós-Graduação,Management,No,3,0-1 Milhas,Pacífico,47,Yes
+16410,Solteiro,Feminino,10000,4,Ensino Médio Incompleto,Manual,Yes,2,0-1 Milhas,Europa,41,Yes
+27760,Solteiro,Feminino,40000,0,Pós-Graduação,Clerical,No,0,0-1 Milhas,Europa,37,Yes
+22930,Casado,Masculino,90000,4,Ensino Superiors,Professional,Yes,0,1-2 Milhas,Pacífico,38,Yes
+23780,Solteiro,Masculino,40000,2,Superior Incompleto,Clerical,No,2,0-1 Milhas,Europa,36,Yes
+20994,Casado,Feminino,20000,0,Ensino Superiors,Clerical,No,0,0-1 Milhas,Pacífico,26,Yes
+28379,Casado,Masculino,30000,1,Ensino Superiors,Skilled Manual,Yes,2,0-1 Milhas,Europa,40,No
+14865,Solteiro,Masculino,40000,2,Superior Incompleto,Clerical,Yes,2,1-2 Milhas,Europa,36,No
+12663,Casado,Feminino,90000,5,Ensino Médio Incompleto,Skilled Manual,Yes,2,10+ Milhas,Europa,59,No
+24898,Solteiro,Feminino,80000,0,Ensino Superiors,Professional,Yes,3,10+ Milhas,Pacífico,32,No
+19508,Casado,Masculino,10000,0,Ensino Médio Incompleto,Manual,No,2,0-1 Milhas,Europa,30,No
+11489,Solteiro,Feminino,20000,0,Ensino Médio Incompleto,Manual,No,2,1-2 Milhas,Europa,35,Yes
+18160,Casado,Masculino,130000,3,Ensino Médio,Professional,Yes,4,5-10 Milhas,Europa,51,Yes
+25241,Casado,Masculino,90000,2,Ensino Superiors,Professional,Yes,1,5-10 Milhas,Pacífico,47,No
+24369,Casado,Feminino,80000,5,Pós-Graduação,Management,No,2,0-1 Milhas,Pacífico,39,No
+27165,Solteiro,Masculino,20000,0,Ensino Médio Incompleto,Manual,No,2,0-1 Milhas,Europa,34,No
+29424,Casado,Masculino,10000,0,Ensino Médio Incompleto,Manual,Yes,2,0-1 Milhas,Europa,32,No
+15926,Solteiro,Feminino,120000,3,Ensino Médio,Professional,Yes,4,5-10 Milhas,Europa,50,Yes
+14554,Casado,Masculino,20000,1,Ensino Superiors,Clerical,Yes,0,0-1 Milhas,Europa,66,No
+16468,Solteiro,Masculino,30000,0,Superior Incompleto,Clerical,Yes,1,2-5 Milhas,Europa,30,No
+19174,Solteiro,Feminino,30000,0,Ensino Médio,Manual,No,1,2-5 Milhas,Europa,32,Yes
+19183,Solteiro,Masculino,10000,0,Ensino Médio Incompleto,Manual,Yes,2,1-2 Milhas,Europa,35,No
+13683,Solteiro,Feminino,30000,0,Ensino Médio,Manual,No,1,2-5 Milhas,Europa,32,No
+17848,Solteiro,Masculino,30000,0,Superior Incompleto,Clerical,No,1,2-5 Milhas,Europa,31,Yes
+17894,Casado,Feminino,20000,1,Ensino Superiors,Clerical,Yes,0,0-1 Milhas,Europa,50,Yes
+25651,Casado,Masculino,40000,1,Ensino Superiors,Skilled Manual,No,0,0-1 Milhas,Europa,43,Yes
+22936,Solteiro,Feminino,60000,1,Superior Incompleto,Skilled Manual,No,1,0-1 Milhas,Pacífico,45,Yes
+23915,Casado,Masculino,20000,2,Ensino Médio,Manual,Yes,2,0-1 Milhas,Europa,42,No
+24121,Solteiro,Feminino,30000,0,Superior Incompleto,Clerical,No,1,0-1 Milhas,Europa,29,Yes
+27878,Solteiro,Masculino,20000,0,Superior Incompleto,Manual,No,0,0-1 Milhas,Pacífico,28,Yes
+13572,Solteiro,Masculino,10000,3,Ensino Médio,Manual,Yes,0,0-1 Milhas,Europa,37,Yes
+27941,Casado,Feminino,80000,4,Superior Incompleto,Professional,Yes,2,2-5 Milhas,Europa,53,No
+26354,Solteiro,Masculino,40000,0,Pós-Graduação,Clerical,No,0,0-1 Milhas,Europa,38,Yes
+14785,Solteiro,Masculino,30000,1,Ensino Superiors,Clerical,No,1,1-2 Milhas,Europa,39,No
+17238,Solteiro,Masculino,80000,0,Ensino Superiors,Professional,Yes,3,10+ Milhas,Pacífico,32,No
+23608,Casado,Feminino,150000,3,Ensino Médio,Professional,Yes,3,0-1 Milhas,Europa,51,Yes
+22538,Solteiro,Feminino,10000,0,Ensino Médio Incompleto,Manual,Yes,2,1-2 Milhas,Europa,33,No
+12332,Casado,Masculino,90000,4,Ensino Médio,Management,Yes,3,5-10 Milhas,Europa,58,Yes
+17230,Casado,Masculino,80000,0,Ensino Superiors,Professional,Yes,3,10+ Milhas,Pacífico,30,No
+13082,Solteiro,Masculino,130000,0,Pós-Graduação,Management,Yes,0,2-5 Milhas,Pacífico,48,Yes
+22518,Solteiro,Feminino,30000,3,Superior Incompleto,Clerical,No,2,0-1 Milhas,Europa,27,Yes
+13687,Casado,Masculino,40000,1,Ensino Superiors,Skilled Manual,Yes,1,0-1 Milhas,Europa,33,Yes
+23571,Casado,Feminino,40000,2,Ensino Superiors,Management,Yes,2,0-1 Milhas,Pacífico,66,Yes
+19305,Solteiro,Feminino,10000,2,Ensino Médio,Manual,Yes,1,0-1 Milhas,Europa,38,Yes
+22636,Solteiro,Feminino,40000,0,Ensino Superiors,Clerical,No,0,0-1 Milhas,Europa,38,Yes
+17310,Casado,Masculino,60000,1,Superior Incompleto,Skilled Manual,Yes,1,0-1 Milhas,Pacífico,45,Yes
+12133,Casado,Feminino,130000,3,Superior Incompleto,Professional,Yes,3,5-10 Milhas,Europa,50,Yes
+25918,Solteiro,Feminino,30000,2,Superior Incompleto,Clerical,No,2,5-10 Milhas,Pacífico,60,Yes
+25752,Solteiro,Feminino,20000,2,Superior Incompleto,Manual,No,1,0-1 Milhas,Europa,53,Yes
+17324,Casado,Feminino,100000,4,Ensino Superiors,Professional,Yes,1,10+ Milhas,Pacífico,46,No
+22918,Solteiro,Masculino,80000,5,Pós-Graduação,Management,Yes,3,0-1 Milhas,Pacífico,40,No
+12510,Casado,Masculino,40000,1,Ensino Superiors,Skilled Manual,Yes,1,0-1 Milhas,Europa,43,Yes
+25512,Solteiro,Masculino,20000,0,Ensino Médio,Manual,No,1,2-5 Milhas,Europa,30,No
+16179,Solteiro,Feminino,80000,5,Ensino Superiors,Professional,Yes,4,1-2 Milhas,Pacífico,38,No
+15628,Casado,Feminino,40000,1,Ensino Superiors,Skilled Manual,Yes,1,0-1 Milhas,Europa,89,No
+20977,Casado,Masculino,20000,1,Ensino Superiors,Clerical,Yes,0,0-1 Milhas,Europa,64,Yes
+18140,Casado,Masculino,130000,3,Superior Incompleto,Professional,No,3,5-10 Milhas,Europa,51,Yes
+20417,Casado,Masculino,30000,3,Superior Incompleto,Clerical,No,2,5-10 Milhas,Pacífico,56,No
+18267,Casado,Masculino,60000,3,Ensino Superiors,Professional,Yes,2,5-10 Milhas,Pacífico,43,No
+13620,Solteiro,Masculino,70000,0,Ensino Superiors,Professional,No,3,10+ Milhas,Pacífico,30,Yes
+22974,Casado,Feminino,30000,2,Superior Incompleto,Clerical,Yes,2,5-10 Milhas,Pacífico,69,No
+13586,Casado,Masculino,80000,4,Superior Incompleto,Professional,Yes,2,10+ Milhas,Europa,53,No
+17978,Casado,Masculino,40000,0,Pós-Graduação,Clerical,Yes,0,0-1 Milhas,Europa,37,Yes
+12581,Solteiro,Feminino,10000,0,Superior Incompleto,Manual,No,1,0-1 Milhas,Pacífico,28,Yes
+18018,Solteiro,Masculino,30000,3,Superior Incompleto,Clerical,Yes,0,0-1 Milhas,Europa,43,No
+28957,Solteiro,Feminino,120000,0,Ensino Médio Incompleto,Professional,Yes,4,10+ Milhas,Pacífico,34,Yes
+13690,Solteiro,Feminino,20000,0,Ensino Médio Incompleto,Manual,No,2,1-2 Milhas,Europa,34,Yes
+12568,Casado,Feminino,30000,1,Ensino Superiors,Clerical,Yes,0,0-1 Milhas,Europa,64,No
+13122,Casado,Feminino,80000,0,Ensino Superiors,Professional,Yes,1,1-2 Milhas,Pacífico,41,Yes
+21184,Solteiro,Masculino,70000,0,Ensino Superiors,Professional,No,1,5-10 Milhas,Pacífico,38,No
+26150,Solteiro,Feminino,70000,0,Ensino Superiors,Professional,No,1,0-1 Milhas,Pacífico,41,Yes
+24151,Solteiro,Masculino,20000,1,Ensino Superiors,Clerical,No,0,0-1 Milhas,Europa,51,No
+23962,Casado,Feminino,10000,0,Ensino Médio Incompleto,Manual,Yes,2,1-2 Milhas,Europa,32,No
+17793,Casado,Feminino,40000,0,Ensino Superiors,Clerical,Yes,0,0-1 Milhas,Europa,38,Yes
+14926,Casado,Masculino,30000,1,Ensino Superiors,Clerical,Yes,0,0-1 Milhas,Europa,38,Yes
+16163,Solteiro,Masculino,60000,2,Ensino Superiors,Professional,Yes,1,2-5 Milhas,Pacífico,38,Yes
+21365,Casado,Feminino,10000,2,Ensino Médio Incompleto,Clerical,Yes,2,5-10 Milhas,Pacífico,58,No
+27771,Solteiro,Masculino,30000,1,Ensino Superiors,Clerical,Yes,1,1-2 Milhas,Europa,39,Yes
+26167,Solteiro,Feminino,40000,2,Ensino Superiors,Management,No,1,5-10 Milhas,Pacífico,53,Yes
+25792,Solteiro,Feminino,110000,3,Ensino Superiors,Management,Yes,4,10+ Milhas,Europa,53,No
+11555,Casado,Feminino,40000,1,Ensino Superiors,Clerical,Yes,0,0-1 Milhas,Europa,80,No
+22381,Casado,Masculino,10000,1,Pós-Graduação,Manual,Yes,0,0-1 Milhas,Europa,44,No
+17882,Casado,Masculino,20000,1,Pós-Graduação,Clerical,Yes,0,0-1 Milhas,Europa,44,No
+22174,Casado,Masculino,30000,3,Ensino Médio,Skilled Manual,Yes,2,5-10 Milhas,Pacífico,54,Yes
+22439,Casado,Feminino,30000,0,Ensino Superiors,Clerical,Yes,0,0-1 Milhas,Europa,37,Yes
+18012,Casado,Feminino,40000,1,Ensino Superiors,Skilled Manual,Yes,0,0-1 Milhas,Europa,41,No
+27582,Solteiro,Feminino,90000,2,Ensino Superiors,Professional,No,0,0-1 Milhas,Pacífico,36,Yes
+12744,Solteiro,Feminino,40000,2,Superior Incompleto,Clerical,Yes,0,0-1 Milhas,Europa,33,No
+22821,Casado,Feminino,130000,3,Superior Incompleto,Professional,Yes,4,0-1 Milhas,Europa,52,No
+20171,Casado,Feminino,20000,2,Superior Incompleto,Manual,Yes,1,0-1 Milhas,Europa,46,Yes
+11116,Casado,Masculino,70000,5,Superior Incompleto,Skilled Manual,Yes,2,5-10 Milhas,Pacífico,43,No
+20053,Solteiro,Masculino,40000,2,Superior Incompleto,Clerical,Yes,0,0-1 Milhas,Europa,34,No
+25266,Solteiro,Feminino,30000,2,Superior Incompleto,Clerical,No,2,5-10 Milhas,Pacífico,67,No
+17960,Casado,Feminino,40000,0,Pós-Graduação,Clerical,Yes,0,0-1 Milhas,Europa,35,Yes
+13961,Casado,Feminino,80000,5,Pós-Graduação,Management,Yes,3,0-1 Milhas,Pacífico,40,No
+11897,Solteiro,Masculino,60000,2,Ensino Superiors,Professional,No,1,0-1 Milhas,Pacífico,37,Yes
+11139,Solteiro,Feminino,30000,2,Superior Incompleto,Clerical,No,2,5-10 Milhas,Pacífico,67,No
+11576,Casado,Masculino,30000,1,Ensino Superiors,Skilled Manual,Yes,2,0-1 Milhas,Europa,41,Yes
+19255,Solteiro,Masculino,10000,2,Superior Incompleto,Manual,Yes,1,0-1 Milhas,Europa,51,Yes
+18153,Casado,Feminino,100000,2,Ensino Superiors,Management,Yes,4,10+ Milhas,Europa,59,No
+14547,Casado,Masculino,10000,2,Superior Incompleto,Manual,Yes,0,1-2 Milhas,Europa,51,No
+24901,Solteiro,Masculino,110000,0,Superior Incompleto,Management,No,3,10+ Milhas,Pacífico,32,Yes
+27169,Solteiro,Masculino,30000,0,Ensino Médio,Manual,Yes,1,2-5 Milhas,Europa,34,Yes
+14805,Solteiro,Feminino,10000,3,Ensino Médio Incompleto,Manual,Yes,2,0-1 Milhas,Europa,43,No
+15822,Casado,Masculino,40000,2,Ensino Superiors,Management,Yes,2,0-1 Milhas,Pacífico,67,No
+19389,Solteiro,Masculino,30000,0,Superior Incompleto,Clerical,No,1,2-5 Milhas,Europa,28,No
+17048,Solteiro,Feminino,90000,1,Pós-Graduação,Management,Yes,0,0-1 Milhas,Pacífico,36,Yes
+22204,Casado,Masculino,110000,4,Ensino Superiors,Management,Yes,3,2-5 Milhas,Pacífico,48,No
+12718,Solteiro,Feminino,30000,0,Superior Incompleto,Clerical,Yes,1,2-5 Milhas,Europa,31,No
+15019,Solteiro,Feminino,30000,3,Ensino Médio,Skilled Manual,Yes,2,5-10 Milhas,Pacífico,55,No
+28488,Solteiro,Masculino,20000,0,Superior Incompleto,Manual,Yes,0,0-1 Milhas,Pacífico,28,Yes
+21891,Casado,Feminino,110000,0,Ensino Médio,Management,Yes,3,10+ Milhas,Pacífico,34,Yes
+27814,Solteiro,Feminino,30000,3,Superior Incompleto,Clerical,No,1,0-1 Milhas,Europa,26,No
+22175,Casado,Feminino,30000,3,Ensino Médio,Skilled Manual,Yes,2,5-10 Milhas,Pacífico,53,Yes
+29447,Solteiro,Feminino,10000,2,Ensino Superiors,Clerical,No,1,2-5 Milhas,Europa,68,No
+19784,Casado,Feminino,80000,2,Ensino Médio,Skilled Manual,Yes,2,5-10 Milhas,Pacífico,50,Yes
+27824,Solteiro,Feminino,30000,3,Superior Incompleto,Clerical,Yes,2,0-1 Milhas,Europa,28,Yes
+24093,Solteiro,Feminino,80000,0,Pós-Graduação,Skilled Manual,No,0,0-1 Milhas,Europa,40,Yes
+19618,Casado,Masculino,70000,5,Superior Incompleto,Skilled Manual,Yes,2,0-1 Milhas,Pacífico,44,No
+21561,Solteiro,Masculino,90000,0,Ensino Superiors,Professional,No,3,10+ Milhas,Pacífico,34,Yes
+11061,Casado,Masculino,80000,2,Superior Incompleto,Skilled Manual,Yes,2,5-10 Milhas,Pacífico,52,Yes
+26651,Solteiro,Masculino,80000,4,Pós-Graduação,Management,Yes,0,0-1 Milhas,Pacífico,36,Yes
+21108,Casado,Feminino,40000,1,Ensino Superiors,Skilled Manual,Yes,1,0-1 Milhas,Europa,43,Yes
+12731,Solteiro,Masculino,30000,0,Ensino Médio,Manual,No,1,1-2 Milhas,Europa,32,No
+25307,Casado,Feminino,40000,1,Ensino Superiors,Skilled Manual,Yes,1,1-2 Milhas,Europa,32,Yes
+14278,Casado,Feminino,130000,0,Pós-Graduação,Management,Yes,1,10+ Milhas,Pacífico,48,No
+20711,Casado,Feminino,40000,1,Ensino Superiors,Skilled Manual,Yes,0,1-2 Milhas,Europa,32,Yes
+11383,Casado,Feminino,30000,3,Pós-Graduação,Clerical,Yes,0,0-1 Milhas,Europa,46,No
+12497,Casado,Feminino,40000,1,Ensino Superiors,Skilled Manual,Yes,0,0-1 Milhas,Europa,42,No
+16559,Solteiro,Feminino,10000,2,Ensino Médio,Manual,Yes,0,0-1 Milhas,Europa,36,Yes
+11585,Casado,Feminino,40000,1,Ensino Superiors,Skilled Manual,Yes,0,0-1 Milhas,Europa,41,No
+20277,Casado,Feminino,30000,2,Superior Incompleto,Clerical,No,2,0-1 Milhas,Pacífico,69,No
+26765,Solteiro,Feminino,70000,5,Superior Incompleto,Skilled Manual,Yes,2,5-10 Milhas,Pacífico,45,No
+12389,Solteiro,Masculino,30000,0,Ensino Médio,Manual,No,1,2-5 Milhas,Europa,34,No
+13585,Casado,Feminino,80000,4,Superior Incompleto,Professional,No,1,2-5 Milhas,Europa,53,Yes
+26385,Solteiro,Masculino,120000,3,Ensino Médio,Professional,No,4,5-10 Milhas,Europa,50,No
+12236,Casado,Feminino,20000,1,Superior Incompleto,Manual,Yes,0,0-1 Milhas,Europa,65,No
+21560,Casado,Masculino,120000,0,Ensino Médio Incompleto,Professional,Yes,4,10+ Milhas,Pacífico,32,Yes
+21554,Solteiro,Feminino,80000,0,Ensino Superiors,Professional,No,3,10+ Milhas,Pacífico,33,No
+13662,Solteiro,Masculino,20000,0,Ensino Médio Incompleto,Manual,Yes,2,1-2 Milhas,Europa,31,Yes
+13089,Casado,Feminino,120000,1,Ensino Superiors,Management,Yes,2,0-1 Milhas,Pacífico,46,Yes
+14791,Casado,Feminino,40000,0,Ensino Superiors,Clerical,Yes,0,0-1 Milhas,Europa,39,Yes
+19331,Solteiro,Masculino,20000,2,Ensino Médio,Manual,Yes,1,0-1 Milhas,Europa,40,No
+17754,Solteiro,Feminino,30000,3,Ensino Superiors,Clerical,Yes,0,0-1 Milhas,Europa,46,Yes
+11149,Casado,Masculino,40000,2,Ensino Superiors,Management,Yes,2,0-1 Milhas,Pacífico,65,No
+16549,Solteiro,Feminino,30000,3,Ensino Superiors,Clerical,Yes,0,0-1 Milhas,Europa,47,Yes
+24305,Solteiro,Masculino,100000,1,Ensino Superiors,Management,No,3,0-1 Milhas,Pacífico,46,Yes
+18253,Casado,Feminino,80000,5,Pós-Graduação,Management,Yes,3,0-1 Milhas,Pacífico,40,No
+20147,Casado,Feminino,30000,1,Ensino Superiors,Clerical,Yes,0,0-1 Milhas,Europa,65,No
+15612,Solteiro,Masculino,30000,0,Ensino Médio,Manual,No,1,1-2 Milhas,Europa,28,No
+28323,Solteiro,Masculino,70000,0,Ensino Superiors,Professional,No,2,5-10 Milhas,Pacífico,43,Yes
+22634,Solteiro,Feminino,40000,0,Pós-Graduação,Clerical,Yes,0,0-1 Milhas,Europa,38,Yes
+15665,Casado,Feminino,30000,0,Ensino Superiors,Clerical,Yes,0,0-1 Milhas,Europa,47,Yes
+27585,Casado,Feminino,90000,2,Ensino Superiors,Professional,No,0,0-1 Milhas,Pacífico,36,Yes
+19748,Casado,Masculino,20000,4,Ensino Médio,Skilled Manual,No,2,1-2 Milhas,Pacífico,60,No
+21974,Solteiro,Feminino,70000,0,Ensino Superiors,Professional,Yes,1,5-10 Milhas,Pacífico,42,Yes
+14032,Casado,Masculino,70000,2,Ensino Médio,Skilled Manual,No,2,1-2 Milhas,Pacífico,50,Yes
+22610,Casado,Masculino,30000,0,Ensino Superiors,Clerical,Yes,0,0-1 Milhas,Europa,35,Yes
+26984,Casado,Masculino,40000,1,Ensino Superiors,Skilled Manual,Yes,1,0-1 Milhas,Europa,32,Yes
+18294,Casado,Feminino,90000,1,Ensino Superiors,Professional,Yes,1,5-10 Milhas,Pacífico,46,No
+28564,Solteiro,Feminino,40000,2,Superior Incompleto,Clerical,Yes,0,1-2 Milhas,Europa,33,Yes
+28521,Solteiro,Masculino,40000,0,Pós-Graduação,Clerical,No,0,0-1 Milhas,Europa,36,Yes
+15450,Casado,Masculino,10000,1,Pós-Graduação,Clerical,Yes,0,0-1 Milhas,Europa,70,No
+25681,Solteiro,Feminino,30000,0,Superior Incompleto,Clerical,No,1,2-5 Milhas,Europa,31,Yes
+19491,Solteiro,Masculino,30000,2,Superior Incompleto,Clerical,Yes,2,0-1 Milhas,Europa,42,No
+26415,Casado,Feminino,90000,4,Ensino Médio Incompleto,Skilled Manual,Yes,4,10+ Milhas,Europa,58,No
+12821,Casado,Masculino,40000,0,Ensino Superiors,Clerical,Yes,0,0-1 Milhas,Europa,39,No
+15629,Solteiro,Feminino,10000,0,Ensino Médio Incompleto,Manual,Yes,2,1-2 Milhas,Europa,34,No
+27835,Casado,Masculino,20000,0,Ensino Médio Incompleto,Manual,Yes,2,0-1 Milhas,Europa,32,No
+11738,Casado,Masculino,60000,4,Ensino Superiors,Professional,Yes,0,2-5 Milhas,América do Norte,46,No
+25065,Casado,Masculino,70000,2,Ensino Médio Incompleto,Skilled Manual,Yes,2,5-10 Milhas,América do Norte,48,No
+26238,Solteiro,Feminino,40000,3,Superior Incompleto,Clerical,Yes,1,1-2 Milhas,América do Norte,31,Yes
+23707,Solteiro,Masculino,70000,5,Ensino Superiors,Management,Yes,3,10+ Milhas,América do Norte,60,Yes
+27650,Casado,Masculino,70000,4,Ensino Médio,Professional,Yes,0,5-10 Milhas,América do Norte,51,No
+24981,Casado,Masculino,60000,2,Superior Incompleto,Professional,Yes,2,10+ Milhas,América do Norte,56,No
+20678,Solteiro,Feminino,60000,3,Ensino Superiors,Skilled Manual,Yes,1,2-5 Milhas,América do Norte,40,Yes
+15302,Solteiro,Feminino,70000,1,Pós-Graduação,Professional,Yes,0,2-5 Milhas,América do Norte,34,Yes
+26012,Casado,Masculino,80000,1,Superior Incompleto,Skilled Manual,Yes,1,2-5 Milhas,América do Norte,48,Yes
+26575,Solteiro,Feminino,40000,0,Ensino Médio,Skilled Manual,No,2,1-2 Milhas,América do Norte,31,Yes
+15559,Casado,Masculino,60000,5,Ensino Superiors,Professional,Yes,1,2-5 Milhas,América do Norte,47,No
+19235,Casado,Feminino,50000,0,Pós-Graduação,Skilled Manual,Yes,0,0-1 Milhas,América do Norte,34,No
+15275,Casado,Masculino,40000,0,Superior Incompleto,Skilled Manual,Yes,1,5-10 Milhas,América do Norte,29,No
+20339,Casado,Feminino,130000,1,Ensino Superiors,Management,Yes,4,2-5 Milhas,América do Norte,44,Yes
+25405,Casado,Masculino,70000,2,Ensino Superiors,Skilled Manual,Yes,1,2-5 Milhas,América do Norte,38,Yes
+15940,Casado,Masculino,100000,4,Superior Incompleto,Professional,Yes,4,0-1 Milhas,América do Norte,40,No
+25074,Casado,Feminino,70000,4,Ensino Superiors,Professional,Yes,2,2-5 Milhas,América do Norte,42,Yes
+24738,Casado,Feminino,40000,1,Superior Incompleto,Clerical,Yes,1,1-2 Milhas,América do Norte,51,Yes
+16337,Casado,Masculino,60000,0,Superior Incompleto,Skilled Manual,No,2,1-2 Milhas,América do Norte,29,No
+24357,Casado,Masculino,60000,3,Ensino Superiors,Professional,Yes,1,2-5 Milhas,América do Norte,48,Yes
+18613,Solteiro,Masculino,70000,0,Ensino Superiors,Professional,No,1,2-5 Milhas,América do Norte,37,Yes
+12207,Solteiro,Masculino,80000,4,Ensino Superiors,Management,Yes,2,5-10 Milhas,América do Norte,66,Yes
+18052,Casado,Feminino,60000,1,Superior Incompleto,Skilled Manual,Yes,1,0-1 Milhas,América do Norte,45,Yes
+13353,Solteiro,Feminino,60000,4,Pós-Graduação,Management,Yes,2,10+ Milhas,América do Norte,61,Yes
+19399,Solteiro,Masculino,40000,0,Ensino Superiors,Professional,No,1,2-5 Milhas,América do Norte,45,No
+16154,Casado,Feminino,70000,5,Ensino Superiors,Professional,Yes,2,2-5 Milhas,América do Norte,47,No
+22219,Casado,Feminino,60000,2,Ensino Médio,Professional,Yes,2,5-10 Milhas,América do Norte,49,No
+17269,Solteiro,Masculino,60000,3,Ensino Superiors,Professional,No,0,0-1 Milhas,América do Norte,47,Yes
+23586,Casado,Feminino,80000,0,Ensino Superiors,Management,Yes,1,1-2 Milhas,América do Norte,34,Yes
+15740,Casado,Masculino,80000,5,Ensino Superiors,Management,Yes,2,1-2 Milhas,América do Norte,64,No
+27638,Solteiro,Masculino,100000,1,Superior Incompleto,Professional,No,3,1-2 Milhas,América do Norte,44,No
+18976,Solteiro,Masculino,40000,4,Ensino Médio,Professional,Yes,2,10+ Milhas,América do Norte,62,Yes
+19413,Solteiro,Masculino,60000,3,Ensino Superiors,Professional,No,1,0-1 Milhas,América do Norte,47,Yes
+13283,Casado,Masculino,80000,3,Superior Incompleto,Professional,No,2,0-1 Milhas,América do Norte,49,Yes
+17471,Solteiro,Feminino,80000,4,Pós-Graduação,Management,Yes,2,5-10 Milhas,América do Norte,67,No
+16791,Solteiro,Masculino,60000,5,Ensino Superiors,Management,Yes,3,10+ Milhas,América do Norte,59,Yes
+15382,Casado,Feminino,110000,1,Ensino Superiors,Management,Yes,2,1-2 Milhas,América do Norte,44,No
+11641,Casado,Masculino,50000,1,Ensino Superiors,Skilled Manual,Yes,0,0-1 Milhas,América do Norte,36,No
+11935,Solteiro,Feminino,30000,0,Superior Incompleto,Skilled Manual,Yes,1,5-10 Milhas,América do Norte,28,No
+13233,Casado,Masculino,60000,2,Superior Incompleto,Professional,Yes,1,10+ Milhas,América do Norte,57,Yes
+25909,Casado,Masculino,60000,0,Superior Incompleto,Skilled Manual,Yes,1,5-10 Milhas,América do Norte,27,Yes
+14092,Solteiro,Masculino,30000,0,Ensino Médio Incompleto,Clerical,Yes,2,5-10 Milhas,América do Norte,28,No
+29143,Solteiro,Feminino,60000,1,Ensino Superiors,Professional,No,1,0-1 Milhas,América do Norte,44,Yes
+24941,Casado,Masculino,60000,3,Ensino Superiors,Management,Yes,2,10+ Milhas,América do Norte,66,No
+24637,Casado,Masculino,40000,4,Ensino Médio,Professional,Yes,2,10+ Milhas,América do Norte,64,No
+23893,Casado,Masculino,50000,3,Ensino Superiors,Skilled Manual,Yes,3,10+ Milhas,América do Norte,41,No
+13907,Solteiro,Feminino,80000,3,Ensino Superiors,Skilled Manual,Yes,1,0-1 Milhas,América do Norte,41,Yes
+14900,Casado,Feminino,40000,1,Superior Incompleto,Clerical,Yes,1,1-2 Milhas,América do Norte,49,Yes
+11262,Casado,Feminino,80000,4,Ensino Superiors,Management,Yes,0,0-1 Milhas,América do Norte,42,No
+22294,Solteiro,Feminino,70000,0,Ensino Superiors,Professional,No,1,2-5 Milhas,América do Norte,37,Yes
+12195,Solteiro,Feminino,70000,3,Pós-Graduação,Management,Yes,2,1-2 Milhas,América do Norte,52,No
+25375,Casado,Masculino,50000,1,Pós-Graduação,Skilled Manual,Yes,0,1-2 Milhas,América do Norte,34,No
+11143,Casado,Masculino,40000,0,Ensino Médio,Skilled Manual,Yes,2,5-10 Milhas,América do Norte,29,No
+25898,Casado,Feminino,70000,2,Ensino Médio,Professional,Yes,2,2-5 Milhas,América do Norte,53,No
+24397,Solteiro,Masculino,120000,2,Ensino Superiors,Management,No,4,1-2 Milhas,América do Norte,40,No
+19758,Solteiro,Masculino,60000,0,Superior Incompleto,Skilled Manual,No,2,1-2 Milhas,América do Norte,29,No
+15529,Casado,Masculino,60000,4,Ensino Superiors,Professional,Yes,2,2-5 Milhas,América do Norte,43,Yes
+19884,Casado,Masculino,60000,2,Ensino Médio,Professional,Yes,2,2-5 Milhas,América do Norte,55,Yes
+18674,Solteiro,Feminino,80000,4,Pós-Graduação,Skilled Manual,No,0,0-1 Milhas,América do Norte,48,No
+13453,Casado,Feminino,130000,1,Ensino Superiors,Management,Yes,3,0-1 Milhas,América do Norte,45,Yes
+14063,Solteiro,Feminino,70000,0,Ensino Superiors,Professional,No,1,0-1 Milhas,Pacífico,42,Yes
+27393,Casado,Feminino,50000,4,Ensino Superiors,Management,Yes,2,10+ Milhas,América do Norte,63,No
+14417,Solteiro,Masculino,60000,3,Ensino Médio,Professional,Yes,2,10+ Milhas,América do Norte,54,Yes
+17533,Casado,Masculino,40000,3,Superior Incompleto,Professional,No,2,5-10 Milhas,América do Norte,73,Yes
+18580,Casado,Feminino,60000,2,Pós-Graduação,Professional,Yes,0,2-5 Milhas,América do Norte,36,Yes
+17025,Solteiro,Masculino,50000,0,Superior Incompleto,Skilled Manual,No,1,2-5 Milhas,América do Norte,39,Yes
+25293,Casado,Masculino,80000,4,Ensino Superiors,Management,Yes,0,1-2 Milhas,América do Norte,42,No
+24725,Casado,Feminino,40000,3,Superior Incompleto,Clerical,Yes,0,1-2 Milhas,América do Norte,31,No
+23200,Casado,Feminino,50000,3,Ensino Superiors,Skilled Manual,Yes,2,0-1 Milhas,América do Norte,41,No
+15895,Solteiro,Feminino,60000,2,Ensino Superiors,Management,Yes,0,10+ Milhas,América do Norte,58,No
+18577,Casado,Feminino,60000,0,Pós-Graduação,Professional,Yes,0,0-1 Milhas,América do Norte,40,No
+27218,Casado,Feminino,20000,2,Ensino Médio Incompleto,Clerical,No,2,0-1 Milhas,América do Norte,48,No
+18560,Casado,Feminino,70000,2,Pós-Graduação,Professional,Yes,0,2-5 Milhas,América do Norte,34,Yes
+25006,Solteiro,Feminino,30000,0,Superior Incompleto,Skilled Manual,Yes,1,5-10 Milhas,América do Norte,28,No
+17369,Solteiro,Masculino,30000,0,Superior Incompleto,Skilled Manual,Yes,1,5-10 Milhas,América do Norte,27,No
+14495,Casado,Masculino,40000,3,Superior Incompleto,Professional,No,2,5-10 Milhas,América do Norte,54,Yes
+18847,Casado,Feminino,60000,2,Pós-Graduação,Management,Yes,2,5-10 Milhas,América do Norte,70,No
+14754,Casado,Masculino,40000,1,Superior Incompleto,Clerical,Yes,1,1-2 Milhas,América do Norte,48,Yes
+23378,Casado,Masculino,70000,1,Superior Incompleto,Skilled Manual,Yes,1,2-5 Milhas,América do Norte,44,Yes
+26452,Solteiro,Masculino,50000,3,Pós-Graduação,Management,Yes,2,10+ Milhas,América do Norte,69,No
+20370,Casado,Masculino,70000,3,Ensino Médio Incompleto,Skilled Manual,Yes,2,5-10 Milhas,América do Norte,52,No
+20528,Casado,Masculino,40000,2,Ensino Médio Incompleto,Skilled Manual,Yes,2,2-5 Milhas,América do Norte,55,No
+23549,Solteiro,Masculino,30000,0,Ensino Médio,Skilled Manual,Yes,2,5-10 Milhas,América do Norte,30,No
+21751,Casado,Masculino,60000,3,Pós-Graduação,Management,Yes,2,1-2 Milhas,América do Norte,63,No
+21266,Solteiro,Feminino,80000,0,Ensino Superiors,Management,Yes,1,1-2 Milhas,América do Norte,34,Yes
+13388,Solteiro,Masculino,60000,2,Superior Incompleto,Professional,Yes,1,10+ Milhas,América do Norte,56,No
+18752,Solteiro,Feminino,40000,0,Ensino Médio,Skilled Manual,Yes,1,5-10 Milhas,América do Norte,31,No
+16917,Casado,Masculino,120000,1,Ensino Superiors,Management,Yes,4,0-1 Milhas,América do Norte,38,No
+15313,Casado,Masculino,60000,4,Ensino Superiors,Management,Yes,2,2-5 Milhas,América do Norte,59,No
+25329,Solteiro,Feminino,40000,3,Superior Incompleto,Clerical,No,2,0-1 Milhas,América do Norte,32,No
+20380,Casado,Feminino,60000,3,Pós-Graduação,Management,Yes,2,10+ Milhas,América do Norte,69,No
+23089,Casado,Masculino,40000,0,Superior Incompleto,Skilled Manual,Yes,1,5-10 Milhas,América do Norte,28,No
+13749,Casado,Masculino,80000,4,Pós-Graduação,Skilled Manual,Yes,0,1-2 Milhas,América do Norte,47,No
+24943,Casado,Masculino,60000,3,Ensino Superiors,Management,Yes,2,10+ Milhas,América do Norte,66,No
+28667,Solteiro,Masculino,70000,2,Ensino Superiors,Skilled Manual,No,1,0-1 Milhas,América do Norte,37,Yes
+15194,Solteiro,Masculino,120000,2,Ensino Superiors,Management,No,3,0-1 Milhas,América do Norte,39,Yes
+17436,Casado,Masculino,60000,2,Ensino Médio,Professional,No,2,1-2 Milhas,América do Norte,51,No
+18935,Casado,Feminino,130000,0,Pós-Graduação,Management,Yes,3,1-2 Milhas,América do Norte,40,No
+16871,Casado,Feminino,90000,2,Ensino Médio,Professional,Yes,1,10+ Milhas,América do Norte,51,Yes
+12100,Solteiro,Masculino,60000,2,Ensino Superiors,Management,Yes,0,10+ Milhas,América do Norte,57,No
+23158,Casado,Feminino,60000,1,Pós-Graduação,Professional,No,0,0-1 Milhas,América do Norte,35,Yes
+18545,Casado,Masculino,40000,4,Ensino Médio,Professional,No,2,10+ Milhas,América do Norte,61,Yes
+18391,Solteiro,Feminino,80000,5,Superior Incompleto,Professional,Yes,2,5-10 Milhas,América do Norte,44,No
+19812,Solteiro,Feminino,70000,2,Superior Incompleto,Professional,Yes,0,5-10 Milhas,América do Norte,49,Yes
+27660,Casado,Masculino,80000,4,Pós-Graduação,Management,Yes,2,5-10 Milhas,América do Norte,70,No
+18058,Solteiro,Feminino,20000,3,Ensino Médio,Skilled Manual,Yes,2,2-5 Milhas,América do Norte,78,No
+20343,Casado,Feminino,90000,4,Superior Incompleto,Professional,Yes,1,1-2 Milhas,América do Norte,45,No
+28997,Solteiro,Masculino,40000,2,Ensino Médio,Professional,No,1,2-5 Milhas,América do Norte,58,Yes
+24398,Casado,Masculino,130000,1,Pós-Graduação,Management,Yes,4,0-1 Milhas,América do Norte,41,No
+19002,Casado,Feminino,60000,2,Superior Incompleto,Professional,Yes,1,2-5 Milhas,América do Norte,57,Yes
+28609,Casado,Masculino,30000,2,Ensino Médio,Skilled Manual,No,2,0-1 Milhas,América do Norte,49,No
+29231,Solteiro,Feminino,80000,4,Superior Incompleto,Professional,No,2,0-1 Milhas,América do Norte,43,No
+18858,Solteiro,Masculino,60000,2,Ensino Médio Incompleto,Skilled Manual,Yes,2,5-10 Milhas,América do Norte,52,Yes
+20000,Casado,Masculino,60000,1,Pós-Graduação,Professional,Yes,0,0-1 Milhas,América do Norte,35,Yes
+25261,Casado,Masculino,40000,0,Ensino Médio,Skilled Manual,Yes,2,5-10 Milhas,América do Norte,27,No
+17458,Solteiro,Masculino,70000,3,Ensino Médio,Professional,Yes,0,5-10 Milhas,América do Norte,52,Yes
+11644,Solteiro,Masculino,40000,2,Ensino Superiors,Skilled Manual,Yes,0,2-5 Milhas,América do Norte,36,No
+16145,Solteiro,Feminino,70000,5,Pós-Graduação,Professional,Yes,3,10+ Milhas,América do Norte,46,Yes
+16890,Casado,Masculino,60000,3,Ensino Médio Incompleto,Skilled Manual,Yes,2,5-10 Milhas,América do Norte,52,Yes
+25983,Casado,Masculino,70000,0,Ensino Superiors,Professional,No,1,0-1 Milhas,América do Norte,43,No
+14633,Casado,Masculino,60000,1,Superior Incompleto,Skilled Manual,Yes,1,2-5 Milhas,América do Norte,44,No
+22994,Casado,Feminino,80000,0,Ensino Superiors,Management,Yes,1,1-2 Milhas,América do Norte,34,Yes
+22983,Solteiro,Feminino,30000,0,Ensino Médio Incompleto,Clerical,Yes,2,5-10 Milhas,América do Norte,27,No
+25184,Solteiro,Masculino,110000,1,Superior Incompleto,Professional,Yes,4,5-10 Milhas,América do Norte,45,Yes
+14469,Casado,Feminino,100000,3,Superior Incompleto,Professional,Yes,4,1-2 Milhas,América do Norte,45,No
+11538,Solteiro,Feminino,60000,4,Pós-Graduação,Skilled Manual,No,0,0-1 Milhas,América do Norte,47,Yes
+16245,Solteiro,Feminino,80000,4,Pós-Graduação,Skilled Manual,Yes,0,1-2 Milhas,América do Norte,47,No
+17858,Casado,Masculino,40000,4,Ensino Médio,Skilled Manual,Yes,2,2-5 Milhas,América do Norte,44,Yes
+25347,Solteiro,Feminino,20000,3,Ensino Médio Incompleto,Clerical,No,2,0-1 Milhas,América do Norte,49,No
+15814,Solteiro,Feminino,40000,0,Ensino Médio,Skilled Manual,Yes,1,5-10 Milhas,América do Norte,30,No
+11259,Casado,Feminino,100000,4,Superior Incompleto,Professional,Yes,4,2-5 Milhas,América do Norte,41,Yes
+11200,Casado,Masculino,70000,4,Ensino Superiors,Management,Yes,1,1-2 Milhas,América do Norte,58,No
+25101,Casado,Masculino,60000,5,Ensino Superiors,Professional,Yes,1,2-5 Milhas,América do Norte,47,No
+21801,Casado,Feminino,70000,4,Superior Incompleto,Professional,Yes,1,1-2 Milhas,América do Norte,55,No
+25943,Solteiro,Feminino,70000,0,Superior Incompleto,Skilled Manual,No,2,0-1 Milhas,América do Norte,27,Yes
+22127,Casado,Masculino,60000,3,Pós-Graduação,Management,Yes,2,1-2 Milhas,América do Norte,67,No
+20414,Casado,Feminino,60000,0,Superior Incompleto,Skilled Manual,Yes,2,5-10 Milhas,América do Norte,29,No
+23672,Casado,Feminino,60000,3,Pós-Graduação,Management,Yes,2,1-2 Milhas,América do Norte,67,No
+29255,Solteiro,Masculino,80000,3,Superior Incompleto,Professional,No,1,1-2 Milhas,América do Norte,51,Yes
+28815,Casado,Feminino,50000,1,Pós-Graduação,Skilled Manual,Yes,0,0-1 Milhas,América do Norte,35,No
+27753,Casado,Masculino,40000,0,Ensino Médio,Skilled Manual,No,2,1-2 Milhas,América do Norte,30,No
+27643,Solteiro,Masculino,70000,5,Superior Incompleto,Professional,Yes,3,2-5 Milhas,América do Norte,44,No
+13754,Solteiro,Feminino,80000,4,Pós-Graduação,Skilled Manual,Yes,0,1-2 Milhas,América do Norte,48,No
+22088,Casado,Feminino,130000,1,Ensino Superiors,Management,Yes,2,0-1 Milhas,América do Norte,45,Yes
+27388,Casado,Masculino,60000,3,Ensino Superiors,Management,No,2,1-2 Milhas,América do Norte,66,No
+24745,Solteiro,Feminino,30000,2,Ensino Médio,Skilled Manual,No,2,0-1 Milhas,América do Norte,49,No
+29237,Solteiro,Feminino,120000,4,Superior Incompleto,Professional,Yes,3,5-10 Milhas,América do Norte,43,Yes
+15272,Solteiro,Masculino,40000,0,Ensino Médio,Skilled Manual,No,2,1-2 Milhas,América do Norte,30,No
+18949,Solteiro,Masculino,70000,3,Pós-Graduação,Management,Yes,2,5-10 Milhas,América do Norte,74,Yes
+14507,Casado,Masculino,100000,2,Pós-Graduação,Management,Yes,3,1-2 Milhas,América do Norte,65,No
+25886,Casado,Feminino,60000,2,Superior Incompleto,Professional,Yes,2,2-5 Milhas,América do Norte,56,Yes
+21441,Casado,Masculino,50000,4,Ensino Superiors,Management,Yes,2,10+ Milhas,América do Norte,64,No
+21741,Casado,Feminino,70000,3,Superior Incompleto,Professional,Yes,2,5-10 Milhas,América do Norte,50,Yes
+14572,Casado,Feminino,70000,3,Pós-Graduação,Professional,Yes,0,2-5 Milhas,América do Norte,35,Yes
+23368,Casado,Feminino,60000,5,Ensino Superiors,Skilled Manual,Yes,3,10+ Milhas,América do Norte,41,No
+16217,Solteiro,Feminino,60000,0,Pós-Graduação,Skilled Manual,Yes,0,0-1 Milhas,América do Norte,39,No
+16247,Solteiro,Feminino,60000,4,Pós-Graduação,Skilled Manual,Yes,0,1-2 Milhas,América do Norte,47,No
+22010,Solteiro,Masculino,40000,0,Ensino Médio,Skilled Manual,Yes,2,5-10 Milhas,América do Norte,31,No
+25872,Solteiro,Feminino,70000,2,Ensino Superiors,Management,No,1,2-5 Milhas,América do Norte,58,Yes
+19164,Solteiro,Feminino,70000,0,Ensino Superiors,Professional,No,1,2-5 Milhas,América do Norte,38,Yes
+18435,Solteiro,Feminino,70000,5,Pós-Graduação,Management,Yes,2,10+ Milhas,América do Norte,67,Yes
+14284,Solteiro,Masculino,60000,0,Superior Incompleto,Professional,No,2,1-2 Milhas,América do Norte,32,Yes
+11287,Casado,Masculino,70000,5,Superior Incompleto,Professional,No,3,5-10 Milhas,América do Norte,45,No
+13066,Solteiro,Masculino,30000,0,Ensino Médio,Skilled Manual,No,2,1-2 Milhas,América do Norte,31,Yes
+29106,Solteiro,Masculino,40000,0,Ensino Médio,Skilled Manual,No,2,1-2 Milhas,América do Norte,31,Yes
+26236,Casado,Feminino,40000,3,Superior Incompleto,Clerical,Yes,1,0-1 Milhas,América do Norte,31,No
+17531,Casado,Masculino,60000,2,Ensino Médio,Professional,No,2,5-10 Milhas,América do Norte,50,No
+12964,Casado,Masculino,70000,1,Superior Incompleto,Skilled Manual,Yes,1,0-1 Milhas,América do Norte,44,No
+19133,Solteiro,Masculino,50000,2,Ensino Superiors,Skilled Manual,Yes,1,2-5 Milhas,América do Norte,38,Yes
+24643,Solteiro,Feminino,60000,4,Ensino Superiors,Management,Yes,2,10+ Milhas,América do Norte,63,No
+21599,Casado,Feminino,60000,1,Pós-Graduação,Professional,Yes,0,2-5 Milhas,América do Norte,36,Yes
+22976,Solteiro,Masculino,40000,0,Ensino Médio,Skilled Manual,No,2,0-1 Milhas,América do Norte,28,Yes
+27637,Solteiro,Feminino,100000,1,Superior Incompleto,Professional,No,3,1-2 Milhas,América do Norte,44,No
+11890,Casado,Feminino,70000,5,Pós-Graduação,Professional,Yes,1,0-1 Milhas,América do Norte,47,No
+28580,Casado,Feminino,80000,0,Pós-Graduação,Skilled Manual,Yes,0,1-2 Milhas,América do Norte,40,Yes
+14443,Casado,Masculino,130000,1,Pós-Graduação,Management,Yes,4,0-1 Milhas,América do Norte,40,No
+17864,Casado,Feminino,60000,1,Superior Incompleto,Skilled Manual,Yes,1,2-5 Milhas,América do Norte,46,Yes
+20505,Casado,Feminino,40000,5,Ensino Médio,Professional,No,2,10+ Milhas,América do Norte,61,No
+14592,Casado,Feminino,60000,0,Pós-Graduação,Professional,Yes,0,0-1 Milhas,América do Norte,40,No
+22227,Casado,Feminino,60000,2,Ensino Médio,Professional,Yes,2,5-10 Milhas,América do Norte,50,No
+21471,Casado,Masculino,70000,2,Superior Incompleto,Professional,Yes,1,10+ Milhas,América do Norte,59,No
+22252,Solteiro,Feminino,60000,1,Pós-Graduação,Professional,Yes,0,2-5 Milhas,América do Norte,36,Yes
+21260,Solteiro,Feminino,40000,0,Ensino Médio,Skilled Manual,Yes,2,5-10 Milhas,América do Norte,30,No
+11817,Solteiro,Feminino,70000,4,Pós-Graduação,Professional,Yes,0,2-5 Milhas,América do Norte,35,Yes
+19223,Casado,Feminino,30000,2,Ensino Médio,Skilled Manual,Yes,2,1-2 Milhas,América do Norte,48,No
+18517,Casado,Masculino,100000,3,Ensino Superiors,Management,Yes,4,0-1 Milhas,América do Norte,41,No
+21717,Casado,Masculino,40000,2,Superior Incompleto,Clerical,Yes,1,0-1 Milhas,América do Norte,47,No
+13760,Casado,Masculino,60000,4,Pós-Graduação,Skilled Manual,No,0,0-1 Milhas,América do Norte,47,No
+18145,Casado,Masculino,80000,5,Ensino Superiors,Management,No,2,2-5 Milhas,Europa,62,No
+21770,Casado,Masculino,60000,4,Ensino Superiors,Management,Yes,2,10+ Milhas,América do Norte,60,No
+11165,Casado,Feminino,60000,0,Superior Incompleto,Skilled Manual,No,1,1-2 Milhas,América do Norte,33,No
+16377,Solteiro,Feminino,80000,4,Pós-Graduação,Skilled Manual,No,0,0-1 Milhas,América do Norte,47,No
+26248,Casado,Masculino,20000,3,Ensino Médio Incompleto,Clerical,No,2,0-1 Milhas,América do Norte,52,No
+23461,Casado,Feminino,90000,5,Superior Incompleto,Professional,Yes,3,2-5 Milhas,América do Norte,40,No
+29133,Solteiro,Feminino,60000,4,Ensino Superiors,Skilled Manual,No,2,0-1 Milhas,América do Norte,42,No
+27673,Solteiro,Feminino,60000,3,Pós-Graduação,Management,Yes,2,5-10 Milhas,América do Norte,53,Yes
+12774,Casado,Feminino,40000,1,Superior Incompleto,Clerical,Yes,1,1-2 Milhas,América do Norte,51,Yes
+18910,Solteiro,Masculino,30000,0,Superior Incompleto,Skilled Manual,Yes,2,5-10 Milhas,América do Norte,30,No
+11699,Solteiro,Masculino,60000,4,Ensino Superiors,Skilled Manual,No,2,0-1 Milhas,América do Norte,43,No
+16725,Casado,Masculino,30000,0,Ensino Médio,Skilled Manual,Yes,2,5-10 Milhas,América do Norte,26,No
+28269,Solteiro,Feminino,130000,1,Ensino Superiors,Management,No,1,2-5 Milhas,América do Norte,45,No
+23144,Casado,Masculino,50000,1,Ensino Superiors,Skilled Manual,Yes,0,0-1 Milhas,América do Norte,34,Yes
+23376,Casado,Masculino,70000,1,Ensino Superiors,Professional,Yes,1,2-5 Milhas,América do Norte,44,Yes
+25970,Solteiro,Feminino,60000,4,Ensino Superiors,Skilled Manual,No,2,0-1 Milhas,América do Norte,41,Yes
+28068,Solteiro,Feminino,80000,3,Pós-Graduação,Professional,No,0,0-1 Milhas,América do Norte,36,Yes
+18390,Casado,Masculino,80000,5,Superior Incompleto,Professional,Yes,2,0-1 Milhas,América do Norte,44,No
+29112,Solteiro,Masculino,60000,0,Superior Incompleto,Professional,No,2,1-2 Milhas,América do Norte,30,No
+14090,Casado,Feminino,30000,0,Ensino Médio Incompleto,Clerical,No,2,0-1 Milhas,América do Norte,28,No
+27040,Casado,Masculino,20000,2,Ensino Médio Incompleto,Clerical,Yes,2,1-2 Milhas,América do Norte,49,No
+23479,Solteiro,Masculino,90000,0,Superior Incompleto,Professional,No,2,0-1 Milhas,América do Norte,43,Yes
+16795,Casado,Feminino,70000,4,Ensino Superiors,Management,Yes,1,1-2 Milhas,América do Norte,59,No
+22014,Solteiro,Masculino,30000,0,Ensino Médio,Skilled Manual,Yes,2,5-10 Milhas,América do Norte,26,No
+13314,Casado,Masculino,120000,1,Ensino Médio,Professional,Yes,4,5-10 Milhas,América do Norte,46,Yes
+11619,Solteiro,Feminino,50000,0,Pós-Graduação,Skilled Manual,Yes,0,1-2 Milhas,América do Norte,33,No
+29132,Solteiro,Feminino,40000,0,Ensino Superiors,Professional,Yes,1,2-5 Milhas,América do Norte,42,Yes
+11199,Casado,Feminino,70000,4,Ensino Superiors,Management,Yes,1,10+ Milhas,América do Norte,59,No
+20296,Solteiro,Feminino,60000,0,Superior Incompleto,Skilled Manual,No,1,1-2 Milhas,América do Norte,33,Yes
+17546,Casado,Feminino,70000,1,Superior Incompleto,Skilled Manual,Yes,1,0-1 Milhas,América do Norte,44,Yes
+18069,Casado,Masculino,70000,5,Ensino Superiors,Management,Yes,4,10+ Milhas,América do Norte,60,No
+23712,Solteiro,Feminino,70000,2,Ensino Superiors,Management,Yes,1,10+ Milhas,América do Norte,59,No
+23358,Casado,Masculino,60000,0,Ensino Médio,Professional,Yes,2,5-10 Milhas,América do Norte,32,Yes
+20518,Casado,Feminino,70000,2,Superior Incompleto,Professional,Yes,1,10+ Milhas,América do Norte,58,No
+28026,Casado,Feminino,40000,2,Ensino Médio,Professional,No,2,2-5 Milhas,América do Norte,59,No
+11669,Solteiro,Feminino,70000,2,Ensino Superiors,Skilled Manual,Yes,1,2-5 Milhas,América do Norte,38,No
+16020,Casado,Masculino,40000,0,Ensino Médio,Skilled Manual,Yes,2,5-10 Milhas,América do Norte,28,Yes
+27090,Casado,Feminino,60000,1,Pós-Graduação,Professional,Yes,0,2-5 Milhas,América do Norte,37,Yes
+27198,Solteiro,Feminino,80000,0,Pós-Graduação,Skilled Manual,No,0,0-1 Milhas,América do Norte,40,No
+19661,Solteiro,Masculino,90000,4,Ensino Superiors,Management,Yes,1,1-2 Milhas,América do Norte,38,Yes
+26327,Casado,Masculino,70000,4,Pós-Graduação,Professional,Yes,0,2-5 Milhas,América do Norte,36,Yes
+26341,Casado,Feminino,70000,5,Pós-Graduação,Professional,Yes,2,0-1 Milhas,América do Norte,37,No
+24958,Solteiro,Feminino,40000,5,Ensino Médio,Professional,No,3,2-5 Milhas,América do Norte,60,Yes
+13287,Solteiro,Masculino,110000,4,Ensino Superiors,Management,Yes,4,5-10 Milhas,América do Norte,42,Yes
+14493,Solteiro,Feminino,70000,3,Pós-Graduação,Management,No,2,1-2 Milhas,América do Norte,53,No
+26678,Solteiro,Feminino,80000,2,Ensino Médio Incompleto,Skilled Manual,Yes,2,5-10 Milhas,América do Norte,49,No
+23275,Casado,Masculino,30000,2,Ensino Médio,Skilled Manual,Yes,2,1-2 Milhas,América do Norte,49,No
+11270,Casado,Masculino,130000,2,Pós-Graduação,Management,Yes,3,0-1 Milhas,América do Norte,42,Yes
+20084,Casado,Masculino,20000,2,Ensino Médio,Manual,No,2,0-1 Milhas,América do Norte,53,No
+16144,Casado,Masculino,70000,1,Pós-Graduação,Professional,Yes,1,0-1 Milhas,América do Norte,46,Yes
+27731,Casado,Masculino,40000,0,Ensino Médio,Skilled Manual,Yes,2,5-10 Milhas,América do Norte,27,No
+11886,Casado,Feminino,60000,3,Ensino Superiors,Professional,Yes,1,0-1 Milhas,América do Norte,48,Yes
+24324,Solteiro,Feminino,60000,4,Ensino Superiors,Skilled Manual,Yes,2,2-5 Milhas,América do Norte,41,Yes
+22220,Casado,Masculino,60000,2,Ensino Médio,Professional,No,2,1-2 Milhas,América do Norte,49,Yes
+26625,Solteiro,Feminino,60000,0,Pós-Graduação,Professional,Yes,1,2-5 Milhas,América do Norte,38,Yes
+23027,Solteiro,Masculino,130000,1,Ensino Superiors,Management,No,4,0-1 Milhas,América do Norte,44,No
+16867,Solteiro,Feminino,130000,1,Ensino Superiors,Management,No,3,0-1 Milhas,América do Norte,45,Yes
+14514,Solteiro,Feminino,30000,0,Superior Incompleto,Skilled Manual,Yes,1,5-10 Milhas,América do Norte,26,No
+19634,Casado,Masculino,40000,0,Ensino Médio,Skilled Manual,Yes,1,5-10 Milhas,América do Norte,31,No
+18504,Casado,Masculino,70000,2,Ensino Médio Incompleto,Skilled Manual,No,2,1-2 Milhas,América do Norte,49,No
+28799,Solteiro,Feminino,40000,2,Superior Incompleto,Clerical,No,1,1-2 Milhas,América do Norte,47,Yes
+11225,Casado,Feminino,60000,2,Superior Incompleto,Professional,Yes,1,10+ Milhas,América do Norte,55,No
+17657,Casado,Masculino,40000,4,Superior Incompleto,Clerical,No,0,0-1 Milhas,América do Norte,30,No
+14913,Casado,Feminino,40000,1,Superior Incompleto,Clerical,Yes,1,1-2 Milhas,América do Norte,48,Yes
+14077,Solteiro,Masculino,30000,0,Ensino Médio,Skilled Manual,Yes,2,5-10 Milhas,América do Norte,30,No
+13296,Casado,Masculino,110000,1,Ensino Superiors,Management,Yes,3,5-10 Milhas,América do Norte,45,No
+20535,Casado,Feminino,70000,4,Superior Incompleto,Professional,Yes,1,10+ Milhas,América do Norte,56,No
+12452,Casado,Masculino,60000,4,Pós-Graduação,Skilled Manual,Yes,0,1-2 Milhas,América do Norte,47,Yes
+28043,Casado,Feminino,60000,2,Ensino Superiors,Management,Yes,0,10+ Milhas,América do Norte,56,No
+12957,Solteiro,Feminino,70000,1,Ensino Superiors,Professional,No,1,0-1 Milhas,América do Norte,44,No
+15412,Casado,Masculino,130000,2,Pós-Graduação,Management,Yes,3,2-5 Milhas,América do Norte,69,No
+20514,Casado,Feminino,70000,2,Superior Incompleto,Professional,Yes,1,2-5 Milhas,América do Norte,59,No
+20758,Casado,Masculino,30000,2,Ensino Médio,Skilled Manual,Yes,2,1-2 Milhas,América do Norte,50,No
+11801,Casado,Masculino,60000,1,Pós-Graduação,Professional,Yes,0,2-5 Milhas,América do Norte,36,No
+22211,Casado,Masculino,60000,0,Superior Incompleto,Professional,Yes,2,5-10 Milhas,América do Norte,32,No
+28087,Solteiro,Feminino,40000,0,Superior Incompleto,Skilled Manual,No,1,1-2 Milhas,América do Norte,27,No
+23668,Casado,Feminino,40000,4,Ensino Médio,Professional,Yes,2,5-10 Milhas,América do Norte,59,Yes
+27441,Casado,Masculino,60000,3,Ensino Médio,Professional,No,2,2-5 Milhas,América do Norte,53,No
+27261,Casado,Masculino,40000,1,Ensino Superiors,Skilled Manual,No,1,0-1 Milhas,América do Norte,36,Yes
+18649,Solteiro,Masculino,30000,1,Ensino Médio,Clerical,Yes,2,1-2 Milhas,América do Norte,51,Yes
+21714,Solteiro,Feminino,80000,5,Pós-Graduação,Skilled Manual,No,0,0-1 Milhas,América do Norte,47,No
+23217,Solteiro,Feminino,60000,3,Pós-Graduação,Professional,Yes,0,2-5 Milhas,América do Norte,43,Yes
+23797,Solteiro,Masculino,20000,3,Ensino Médio Incompleto,Clerical,No,2,0-1 Milhas,América do Norte,50,No
+13216,Casado,Feminino,60000,5,Ensino Superiors,Management,Yes,3,10+ Milhas,América do Norte,59,No
+20657,Solteiro,Masculino,50000,2,Ensino Superiors,Skilled Manual,Yes,0,2-5 Milhas,América do Norte,37,Yes
+12882,Casado,Masculino,50000,1,Pós-Graduação,Skilled Manual,Yes,0,0-1 Milhas,América do Norte,33,Yes
+25908,Casado,Feminino,60000,0,Superior Incompleto,Skilled Manual,No,1,1-2 Milhas,América do Norte,27,No
+16753,Solteiro,Feminino,70000,0,Superior Incompleto,Skilled Manual,Yes,2,5-10 Milhas,América do Norte,34,Yes
+14608,Casado,Masculino,50000,4,Ensino Superiors,Skilled Manual,Yes,3,10+ Milhas,América do Norte,42,No
+24979,Casado,Feminino,60000,2,Superior Incompleto,Professional,Yes,2,2-5 Milhas,América do Norte,57,Yes
+13313,Casado,Feminino,120000,1,Ensino Médio,Professional,No,4,2-5 Milhas,América do Norte,45,No
+18952,Casado,Feminino,100000,4,Ensino Superiors,Management,Yes,4,0-1 Milhas,América do Norte,40,No
+17699,Casado,Masculino,60000,1,Pós-Graduação,Skilled Manual,No,0,0-1 Milhas,América do Norte,35,No
+14657,Casado,Masculino,80000,1,Superior Incompleto,Skilled Manual,No,1,0-1 Milhas,América do Norte,47,Yes
+11540,Solteiro,Masculino,60000,4,Pós-Graduação,Skilled Manual,Yes,0,1-2 Milhas,América do Norte,47,Yes
+11783,Casado,Feminino,60000,1,Pós-Graduação,Skilled Manual,Yes,0,0-1 Milhas,América do Norte,34,No
+14602,Casado,Feminino,80000,3,Pós-Graduação,Professional,Yes,0,0-1 Milhas,América do Norte,36,Yes
+29030,Casado,Masculino,70000,2,Ensino Médio Incompleto,Skilled Manual,Yes,2,10+ Milhas,América do Norte,54,No
+26490,Solteiro,Masculino,70000,2,Ensino Superiors,Management,No,1,2-5 Milhas,América do Norte,59,Yes
+13151,Solteiro,Masculino,40000,0,Ensino Médio,Skilled Manual,Yes,2,5-10 Milhas,América do Norte,27,No
+17260,Casado,Masculino,90000,5,Superior Incompleto,Professional,Yes,3,0-1 Milhas,América do Norte,41,No
+15372,Casado,Masculino,80000,3,Superior Incompleto,Professional,No,2,2-5 Milhas,América do Norte,50,Yes
+18105,Casado,Feminino,60000,2,Superior Incompleto,Professional,Yes,1,10+ Milhas,América do Norte,55,No
+19660,Casado,Masculino,80000,4,Ensino Superiors,Management,Yes,0,0-1 Milhas,América do Norte,43,No
+16112,Solteiro,Masculino,70000,4,Ensino Superiors,Professional,Yes,2,2-5 Milhas,América do Norte,43,Yes
+20698,Casado,Masculino,60000,4,Ensino Superiors,Skilled Manual,Yes,3,5-10 Milhas,América do Norte,42,No
+20076,Solteiro,Feminino,10000,2,Ensino Médio,Manual,Yes,2,1-2 Milhas,América do Norte,53,Yes
+24496,Solteiro,Feminino,40000,0,Ensino Médio,Skilled Manual,No,2,0-1 Milhas,América do Norte,28,Yes
+15468,Casado,Feminino,50000,1,Ensino Superiors,Skilled Manual,Yes,1,0-1 Milhas,América do Norte,35,No
+28031,Solteiro,Feminino,70000,2,Ensino Superiors,Management,No,1,2-5 Milhas,América do Norte,59,Yes
+26270,Solteiro,Feminino,20000,2,Ensino Médio Incompleto,Clerical,Yes,2,1-2 Milhas,América do Norte,49,No
+22221,Casado,Masculino,60000,2,Ensino Médio,Professional,No,2,1-2 Milhas,América do Norte,48,Yes
+28228,Solteiro,Feminino,80000,2,Ensino Médio Incompleto,Skilled Manual,No,2,1-2 Milhas,América do Norte,50,No
+18363,Casado,Masculino,40000,0,Ensino Médio,Skilled Manual,Yes,2,5-10 Milhas,América do Norte,28,Yes
+23256,Solteiro,Masculino,30000,1,Ensino Médio,Clerical,No,1,5-10 Milhas,América do Norte,52,No
+12768,Casado,Masculino,30000,1,Ensino Médio,Clerical,Yes,1,2-5 Milhas,América do Norte,52,Yes
+20361,Casado,Masculino,50000,2,Pós-Graduação,Management,Yes,2,5-10 Milhas,América do Norte,69,No
+21306,Solteiro,Masculino,60000,2,Ensino Médio,Professional,Yes,2,5-10 Milhas,América do Norte,51,No
+13382,Casado,Masculino,70000,5,Superior Incompleto,Professional,Yes,2,1-2 Milhas,América do Norte,57,Yes
+20310,Solteiro,Masculino,60000,0,Superior Incompleto,Skilled Manual,Yes,1,5-10 Milhas,América do Norte,27,Yes
+22971,Solteiro,Feminino,30000,0,Ensino Médio,Skilled Manual,No,2,0-1 Milhas,América do Norte,25,Yes
+15287,Solteiro,Feminino,50000,1,Pós-Graduação,Skilled Manual,Yes,0,1-2 Milhas,América do Norte,33,Yes
+15532,Solteiro,Masculino,60000,4,Ensino Superiors,Professional,Yes,2,2-5 Milhas,América do Norte,43,Yes
+11255,Casado,Masculino,70000,4,Pós-Graduação,Management,Yes,2,5-10 Milhas,América do Norte,73,No
+28090,Casado,Masculino,40000,0,Superior Incompleto,Skilled Manual,Yes,1,5-10 Milhas,América do Norte,27,No
+15255,Casado,Masculino,40000,0,Ensino Médio,Skilled Manual,Yes,2,5-10 Milhas,América do Norte,28,Yes
+13154,Casado,Masculino,40000,0,Ensino Médio,Skilled Manual,No,2,0-1 Milhas,América do Norte,27,Yes
+26778,Solteiro,Feminino,40000,0,Ensino Médio,Skilled Manual,Yes,2,5-10 Milhas,América do Norte,31,No
+23248,Casado,Feminino,10000,2,Ensino Médio,Manual,Yes,2,1-2 Milhas,América do Norte,53,No
+21417,Solteiro,Feminino,60000,0,Superior Incompleto,Professional,No,2,1-2 Milhas,América do Norte,32,Yes
+17668,Solteiro,Masculino,30000,2,Ensino Médio,Skilled Manual,Yes,2,1-2 Milhas,América do Norte,50,Yes
+27994,Casado,Feminino,40000,4,Ensino Médio,Professional,Yes,2,5-10 Milhas,América do Norte,69,No
+20376,Solteiro,Feminino,70000,3,Pós-Graduação,Management,Yes,2,5-10 Milhas,América do Norte,52,Yes
+25954,Casado,Masculino,60000,0,Superior Incompleto,Skilled Manual,No,2,1-2 Milhas,América do Norte,31,No
+15749,Solteiro,Feminino,70000,4,Ensino Superiors,Management,Yes,2,10+ Milhas,América do Norte,61,No
+25899,Casado,Feminino,70000,2,Ensino Médio,Professional,Yes,2,10+ Milhas,América do Norte,53,No
+13351,Solteiro,Feminino,70000,4,Ensino Superiors,Management,Yes,2,1-2 Milhas,América do Norte,62,Yes
+23333,Casado,Masculino,40000,0,Superior Incompleto,Skilled Manual,No,2,1-2 Milhas,América do Norte,30,No
+21660,Casado,Feminino,60000,3,Pós-Graduação,Professional,Yes,0,2-5 Milhas,América do Norte,43,Yes
+17012,Casado,Feminino,60000,3,Pós-Graduação,Professional,Yes,0,2-5 Milhas,América do Norte,42,Yes
+24514,Casado,Masculino,40000,0,Superior Incompleto,Skilled Manual,Yes,1,5-10 Milhas,América do Norte,30,No
+27505,Solteiro,Feminino,40000,0,Ensino Médio,Skilled Manual,Yes,2,5-10 Milhas,América do Norte,30,No
+29243,Solteiro,Masculino,110000,1,Ensino Superiors,Management,Yes,1,5-10 Milhas,América do Norte,43,No
+26582,Casado,Masculino,60000,0,Superior Incompleto,Skilled Manual,Yes,2,5-10 Milhas,América do Norte,33,Yes
+14271,Casado,Masculino,30000,0,Ensino Médio,Skilled Manual,Yes,2,5-10 Milhas,América do Norte,32,No
+23041,Solteiro,Feminino,70000,4,Ensino Médio,Professional,Yes,0,5-10 Milhas,América do Norte,50,Yes
+29048,Solteiro,Masculino,110000,2,Ensino Superiors,Management,No,3,0-1 Milhas,América do Norte,37,Yes
+24433,Casado,Masculino,70000,3,Ensino Médio,Professional,No,1,1-2 Milhas,América do Norte,52,Yes
+15501,Casado,Masculino,70000,4,Pós-Graduação,Professional,Yes,0,2-5 Milhas,América do Norte,36,Yes
+13911,Solteiro,Feminino,80000,3,Ensino Superiors,Skilled Manual,Yes,2,2-5 Milhas,América do Norte,41,Yes
+20421,Solteiro,Feminino,40000,0,Ensino Médio Incompleto,Clerical,Yes,2,5-10 Milhas,América do Norte,26,No
+16009,Solteiro,Masculino,170000,1,Pós-Graduação,Management,No,4,0-1 Milhas,América do Norte,66,No
+18411,Casado,Masculino,60000,2,Ensino Médio,Professional,No,2,5-10 Milhas,América do Norte,51,No
+19163,Casado,Feminino,70000,4,Ensino Superiors,Professional,Yes,2,0-1 Milhas,América do Norte,43,Yes
+18572,Casado,Feminino,60000,0,Pós-Graduação,Professional,Yes,0,0-1 Milhas,América do Norte,39,No
+27540,Solteiro,Feminino,70000,0,Ensino Superiors,Professional,No,1,0-1 Milhas,América do Norte,37,Yes
+19889,Solteiro,Feminino,70000,2,Ensino Médio Incompleto,Skilled Manual,No,2,2-5 Milhas,América do Norte,54,Yes
+12922,Solteiro,Feminino,60000,3,Ensino Superiors,Skilled Manual,Yes,0,2-5 Milhas,América do Norte,40,Yes
+18891,Casado,Feminino,40000,0,Superior Incompleto,Skilled Manual,Yes,2,5-10 Milhas,América do Norte,28,No
+16773,Casado,Masculino,60000,1,Pós-Graduação,Skilled Manual,Yes,0,0-1 Milhas,América do Norte,33,No
+19143,Solteiro,Feminino,80000,3,Ensino Superiors,Skilled Manual,Yes,2,2-5 Milhas,América do Norte,41,Yes
+23882,Solteiro,Feminino,80000,3,Pós-Graduação,Professional,Yes,0,0-1 Milhas,América do Norte,37,Yes
+11233,Casado,Masculino,70000,4,Superior Incompleto,Professional,Yes,2,10+ Milhas,América do Norte,53,No
+12056,Casado,Masculino,120000,2,Pós-Graduação,Management,Yes,3,5-10 Milhas,América do Norte,64,No
+15555,Casado,Feminino,60000,1,Superior Incompleto,Skilled Manual,Yes,1,2-5 Milhas,América do Norte,45,Yes
+18423,Solteiro,Masculino,80000,2,Ensino Médio Incompleto,Skilled Manual,No,2,1-2 Milhas,América do Norte,52,No
+22743,Casado,Feminino,40000,5,Ensino Médio,Professional,Yes,2,10+ Milhas,América do Norte,60,No
+25343,Solteiro,Feminino,20000,3,Ensino Médio Incompleto,Clerical,Yes,2,1-2 Milhas,América do Norte,50,No
+13390,Casado,Feminino,70000,4,Superior Incompleto,Professional,No,1,1-2 Milhas,América do Norte,56,No
+17482,Solteiro,Feminino,40000,0,Ensino Médio Incompleto,Clerical,Yes,2,5-10 Milhas,América do Norte,29,No
+13176,Solteiro,Masculino,130000,0,Pós-Graduação,Management,No,2,0-1 Milhas,América do Norte,38,Yes
+20504,Casado,Feminino,40000,5,Ensino Médio,Professional,No,2,2-5 Milhas,América do Norte,60,No
+12205,Solteiro,Feminino,130000,2,Ensino Superiors,Management,No,4,0-1 Milhas,América do Norte,67,No
+16751,Casado,Masculino,60000,0,Superior Incompleto,Skilled Manual,Yes,1,5-10 Milhas,América do Norte,32,Yes
+21613,Solteiro,Masculino,50000,2,Ensino Superiors,Skilled Manual,No,1,0-1 Milhas,América do Norte,39,Yes
+24801,Solteiro,Masculino,60000,1,Pós-Graduação,Professional,Yes,0,2-5 Milhas,América do Norte,35,Yes
+17519,Casado,Feminino,60000,0,Superior Incompleto,Professional,Yes,2,5-10 Milhas,América do Norte,32,No
+18347,Solteiro,Feminino,30000,0,Superior Incompleto,Skilled Manual,No,1,1-2 Milhas,América do Norte,31,No
+29052,Solteiro,Masculino,40000,0,Superior Incompleto,Skilled Manual,Yes,1,5-10 Milhas,América do Norte,27,No
+11745,Casado,Feminino,60000,1,Ensino Superiors,Professional,Yes,1,0-1 Milhas,América do Norte,47,Yes
+19147,Casado,Masculino,40000,0,Ensino Superiors,Professional,No,1,0-1 Milhas,América do Norte,42,No
+19217,Casado,Masculino,30000,2,Ensino Médio,Skilled Manual,Yes,2,1-2 Milhas,América do Norte,49,No
+15839,Solteiro,Masculino,30000,0,Superior Incompleto,Skilled Manual,Yes,1,5-10 Milhas,América do Norte,32,No
+13714,Casado,Feminino,20000,2,Ensino Médio,Manual,No,2,1-2 Milhas,América do Norte,53,Yes
+22330,Casado,Masculino,50000,0,Pós-Graduação,Skilled Manual,Yes,0,1-2 Milhas,América do Norte,32,Yes
+18783,Solteiro,Masculino,80000,0,Ensino Superiors,Management,No,1,0-1 Milhas,América do Norte,38,Yes
+25041,Solteiro,Masculino,40000,0,Ensino Médio,Skilled Manual,Yes,2,5-10 Milhas,América do Norte,31,No
+22046,Solteiro,Feminino,80000,0,Ensino Superiors,Management,No,1,0-1 Milhas,América do Norte,38,Yes
+28052,Casado,Masculino,60000,2,Ensino Médio,Professional,Yes,2,10+ Milhas,América do Norte,55,No
+26693,Casado,Masculino,70000,3,Superior Incompleto,Professional,Yes,1,5-10 Milhas,América do Norte,49,No
+24955,Solteiro,Masculino,30000,5,Ensino Médio Incompleto,Skilled Manual,Yes,3,10+ Milhas,América do Norte,60,Yes
+26065,Solteiro,Feminino,110000,3,Ensino Superiors,Management,No,4,1-2 Milhas,América do Norte,42,No
+13942,Casado,Masculino,60000,1,Superior Incompleto,Skilled Manual,Yes,1,0-1 Milhas,América do Norte,46,No
+11219,Casado,Masculino,60000,2,Ensino Médio,Professional,Yes,2,10+ Milhas,América do Norte,55,No
+22118,Solteiro,Feminino,70000,3,Pós-Graduação,Management,Yes,2,5-10 Milhas,América do Norte,53,Yes
+23197,Casado,Masculino,50000,3,Ensino Superiors,Skilled Manual,Yes,2,2-5 Milhas,América do Norte,40,No
+14883,Casado,Feminino,30000,1,Ensino Superiors,Skilled Manual,Yes,1,5-10 Milhas,América do Norte,53,Yes
+27279,Solteiro,Feminino,70000,2,Ensino Superiors,Skilled Manual,Yes,0,2-5 Milhas,América do Norte,38,Yes
+18322,Solteiro,Masculino,30000,0,Ensino Médio Incompleto,Clerical,No,2,0-1 Milhas,América do Norte,26,No
+15879,Casado,Masculino,70000,5,Ensino Superiors,Management,Yes,2,2-5 Milhas,América do Norte,61,No
+28278,Casado,Masculino,50000,2,Pós-Graduação,Management,Yes,2,5-10 Milhas,América do Norte,71,No
+24416,Casado,Masculino,90000,4,Ensino Médio,Professional,Yes,2,1-2 Milhas,América do Norte,45,No
+28066,Casado,Masculino,80000,2,Pós-Graduação,Professional,Yes,0,0-1 Milhas,América do Norte,37,Yes
+11275,Casado,Feminino,80000,4,Pós-Graduação,Management,Yes,2,0-1 Milhas,América do Norte,72,Yes
+14872,Casado,Masculino,30000,0,Pós-Graduação,Skilled Manual,Yes,0,0-1 Milhas,América do Norte,32,No
+16151,Casado,Feminino,60000,1,Ensino Superiors,Professional,Yes,1,2-5 Milhas,América do Norte,48,Yes
+19731,Casado,Masculino,80000,4,Pós-Graduação,Management,Yes,2,5-10 Milhas,América do Norte,68,No
+23801,Casado,Feminino,20000,2,Ensino Médio Incompleto,Clerical,Yes,2,0-1 Milhas,América do Norte,49,No
+11807,Casado,Masculino,70000,3,Pós-Graduação,Professional,Yes,0,2-5 Milhas,América do Norte,34,No
+11622,Casado,Masculino,50000,0,Pós-Graduação,Skilled Manual,Yes,0,0-1 Milhas,América do Norte,32,No
+26597,Solteiro,Feminino,60000,4,Ensino Superiors,Skilled Manual,No,2,0-1 Milhas,América do Norte,42,No
+27074,Casado,Feminino,70000,1,Pós-Graduação,Skilled Manual,Yes,0,0-1 Milhas,América do Norte,35,Yes
+19228,Casado,Feminino,40000,2,Superior Incompleto,Clerical,Yes,1,0-1 Milhas,América do Norte,48,No
+13415,Solteiro,Masculino,100000,1,Pós-Graduação,Management,Yes,3,2-5 Milhas,América do Norte,73,Yes
+17000,Solteiro,Feminino,70000,4,Ensino Superiors,Skilled Manual,Yes,2,2-5 Milhas,América do Norte,43,Yes
+14569,Casado,Masculino,60000,1,Pós-Graduação,Professional,Yes,0,0-1 Milhas,América do Norte,35,No
+13873,Casado,Masculino,70000,3,Pós-Graduação,Professional,Yes,0,0-1 Milhas,América do Norte,35,Yes
+20401,Casado,Feminino,50000,4,Ensino Superiors,Management,Yes,2,1-2 Milhas,América do Norte,64,Yes
+21583,Casado,Feminino,50000,1,Ensino Superiors,Skilled Manual,Yes,0,0-1 Milhas,América do Norte,34,Yes
+12029,Casado,Masculino,30000,0,Ensino Médio Incompleto,Clerical,No,2,0-1 Milhas,América do Norte,28,No
+18066,Solteiro,Masculino,70000,5,Ensino Superiors,Management,Yes,3,10+ Milhas,América do Norte,60,Yes
+28192,Casado,Feminino,70000,5,Pós-Graduação,Professional,Yes,3,10+ Milhas,América do Norte,46,No
+16122,Casado,Masculino,40000,4,Ensino Médio,Skilled Manual,Yes,2,0-1 Milhas,América do Norte,44,Yes
+18607,Solteiro,Feminino,60000,4,Ensino Superiors,Skilled Manual,Yes,2,2-5 Milhas,América do Norte,42,Yes
+28858,Solteiro,Masculino,80000,3,Ensino Superiors,Skilled Manual,Yes,0,2-5 Milhas,América do Norte,40,No
+14432,Solteiro,Masculino,90000,4,Pós-Graduação,Management,Yes,1,5-10 Milhas,América do Norte,73,No
+26305,Solteiro,Feminino,60000,2,Ensino Superiors,Skilled Manual,No,0,0-1 Milhas,América do Norte,36,Yes
+22050,Solteiro,Masculino,90000,4,Ensino Superiors,Management,Yes,1,1-2 Milhas,América do Norte,38,Yes
+25394,Casado,Masculino,60000,1,Pós-Graduação,Professional,Yes,0,2-5 Milhas,América do Norte,34,Yes
+19747,Casado,Masculino,50000,4,Ensino Superiors,Management,Yes,2,10+ Milhas,América do Norte,63,No
+23195,Solteiro,Masculino,50000,3,Ensino Superiors,Skilled Manual,Yes,2,2-5 Milhas,América do Norte,41,Yes
+21695,Casado,Masculino,60000,0,Pós-Graduação,Skilled Manual,Yes,0,1-2 Milhas,América do Norte,39,Yes
+13934,Casado,Masculino,40000,4,Ensino Médio,Skilled Manual,Yes,2,2-5 Milhas,América do Norte,46,No
+13337,Casado,Feminino,80000,5,Ensino Superiors,Management,Yes,2,5-10 Milhas,América do Norte,64,No
+27190,Casado,Feminino,40000,3,Superior Incompleto,Clerical,Yes,1,1-2 Milhas,América do Norte,32,No
+28657,Solteiro,Masculino,60000,2,Ensino Superiors,Skilled Manual,Yes,0,2-5 Milhas,América do Norte,36,Yes
+21713,Solteiro,Masculino,80000,5,Pós-Graduação,Skilled Manual,No,0,0-1 Milhas,América do Norte,47,No
+21752,Casado,Masculino,60000,3,Pós-Graduação,Management,Yes,2,10+ Milhas,América do Norte,64,No
+27273,Solteiro,Masculino,70000,3,Pós-Graduação,Professional,No,0,0-1 Milhas,América do Norte,35,Yes
+22719,Solteiro,Masculino,110000,3,Ensino Superiors,Management,Yes,4,2-5 Milhas,América do Norte,40,Yes
+22042,Casado,Feminino,70000,0,Superior Incompleto,Skilled Manual,Yes,2,5-10 Milhas,América do Norte,34,Yes
+21451,Casado,Feminino,40000,4,Ensino Médio,Professional,Yes,2,10+ Milhas,América do Norte,61,No
+20754,Casado,Masculino,30000,2,Ensino Médio,Skilled Manual,Yes,2,1-2 Milhas,América do Norte,51,No
+12153,Solteiro,Feminino,70000,3,Superior Incompleto,Professional,Yes,1,5-10 Milhas,América do Norte,49,Yes
+16895,Casado,Feminino,40000,3,Superior Incompleto,Professional,No,2,1-2 Milhas,América do Norte,54,Yes
+26728,Solteiro,Masculino,70000,3,Pós-Graduação,Management,No,2,1-2 Milhas,América do Norte,53,Yes
+11090,Solteiro,Masculino,90000,2,Superior Incompleto,Professional,Yes,1,2-5 Milhas,América do Norte,48,Yes
+15862,Solteiro,Feminino,50000,0,Pós-Graduação,Skilled Manual,Yes,0,1-2 Milhas,América do Norte,33,Yes
+26495,Solteiro,Feminino,40000,2,Ensino Médio,Professional,Yes,2,10+ Milhas,América do Norte,57,No
+11823,Casado,Feminino,70000,0,Pós-Graduação,Professional,Yes,0,2-5 Milhas,América do Norte,39,No
+23449,Casado,Masculino,60000,2,Ensino Médio,Professional,Yes,2,5-10 Milhas,América do Norte,48,No
+23459,Casado,Masculino,60000,2,Ensino Médio,Professional,Yes,2,5-10 Milhas,América do Norte,50,No
+19543,Casado,Masculino,70000,5,Pós-Graduação,Professional,No,3,10+ Milhas,América do Norte,47,No
+14914,Casado,Feminino,40000,1,Superior Incompleto,Clerical,Yes,1,1-2 Milhas,América do Norte,49,Yes
+12033,Solteiro,Feminino,40000,0,Ensino Médio,Skilled Manual,No,2,0-1 Milhas,América do Norte,27,Yes
+11941,Solteiro,Masculino,60000,0,Superior Incompleto,Skilled Manual,Yes,2,5-10 Milhas,América do Norte,29,No
+14389,Casado,Masculino,60000,2,Ensino Superiors,Management,Yes,0,2-5 Milhas,América do Norte,59,No
+18050,Casado,Feminino,60000,1,Superior Incompleto,Skilled Manual,Yes,1,0-1 Milhas,América do Norte,45,Yes
+19856,Casado,Feminino,60000,4,Ensino Superiors,Management,Yes,2,2-5 Milhas,América do Norte,60,No
+11663,Casado,Masculino,70000,4,Pós-Graduação,Professional,Yes,0,0-1 Milhas,América do Norte,36,Yes
+27740,Casado,Feminino,40000,0,Ensino Médio,Skilled Manual,Yes,2,5-10 Milhas,América do Norte,27,No
+23455,Solteiro,Masculino,80000,2,Ensino Médio Incompleto,Skilled Manual,No,2,1-2 Milhas,América do Norte,50,No
+15292,Solteiro,Feminino,60000,1,Pós-Graduação,Skilled Manual,Yes,0,1-2 Milhas,América do Norte,35,No
+21587,Casado,Feminino,60000,1,Pós-Graduação,Skilled Manual,Yes,0,2-5 Milhas,América do Norte,34,Yes
+23513,Casado,Feminino,40000,3,Superior Incompleto,Professional,Yes,2,5-10 Milhas,América do Norte,54,No
+24322,Casado,Feminino,60000,4,Ensino Superiors,Skilled Manual,Yes,2,0-1 Milhas,América do Norte,42,No
+26298,Casado,Feminino,50000,1,Ensino Superiors,Skilled Manual,Yes,0,2-5 Milhas,América do Norte,34,Yes
+25419,Solteiro,Masculino,50000,2,Ensino Superiors,Skilled Manual,No,1,0-1 Milhas,América do Norte,38,Yes
+13343,Casado,Feminino,90000,5,Ensino Superiors,Management,Yes,2,1-2 Milhas,América do Norte,63,Yes
+11303,Solteiro,Feminino,90000,4,Ensino Médio,Professional,No,3,1-2 Milhas,América do Norte,45,Yes
+21693,Solteiro,Feminino,60000,0,Pós-Graduação,Skilled Manual,No,0,0-1 Milhas,América do Norte,40,No
+28056,Casado,Masculino,70000,2,Ensino Médio Incompleto,Skilled Manual,Yes,2,10+ Milhas,América do Norte,53,No
+11788,Solteiro,Feminino,70000,1,Pós-Graduação,Professional,Yes,0,2-5 Milhas,América do Norte,34,No
+22296,Casado,Masculino,70000,0,Ensino Superiors,Professional,No,1,0-1 Milhas,América do Norte,38,No
+15319,Casado,Feminino,70000,4,Ensino Superiors,Management,No,1,1-2 Milhas,América do Norte,59,No
+17654,Solteiro,Feminino,40000,3,Superior Incompleto,Clerical,Yes,1,1-2 Milhas,América do Norte,30,Yes
+14662,Casado,Masculino,60000,1,Ensino Superiors,Professional,Yes,1,0-1 Milhas,América do Norte,48,Yes
+17541,Casado,Feminino,40000,4,Ensino Médio,Skilled Manual,Yes,2,2-5 Milhas,América do Norte,43,No
+13886,Casado,Feminino,70000,4,Pós-Graduação,Professional,Yes,0,2-5 Milhas,América do Norte,35,Yes
+13073,Casado,Feminino,60000,0,Superior Incompleto,Professional,Yes,2,5-10 Milhas,América do Norte,30,No
+21940,Casado,Masculino,90000,5,Pós-Graduação,Professional,Yes,0,0-1 Milhas,América do Norte,47,Yes
+20196,Casado,Masculino,60000,1,Superior Incompleto,Skilled Manual,Yes,1,2-5 Milhas,América do Norte,45,Yes
+23491,Solteiro,Masculino,100000,3,Superior Incompleto,Professional,No,4,1-2 Milhas,América do Norte,45,No
+16651,Casado,Feminino,120000,2,Ensino Superiors,Management,Yes,3,5-10 Milhas,América do Norte,62,No
+16813,Casado,Masculino,60000,2,Superior Incompleto,Professional,Yes,2,10+ Milhas,América do Norte,55,No
+16007,Casado,Feminino,90000,5,Ensino Superiors,Management,Yes,2,1-2 Milhas,América do Norte,66,Yes
+27434,Solteiro,Masculino,70000,4,Superior Incompleto,Professional,Yes,1,10+ Milhas,América do Norte,56,No
+27756,Solteiro,Feminino,50000,3,Ensino Superiors,Skilled Manual,No,1,0-1 Milhas,América do Norte,40,No
+23818,Casado,Feminino,50000,0,Pós-Graduação,Skilled Manual,Yes,0,1-2 Milhas,América do Norte,33,Yes
+19012,Casado,Masculino,80000,3,Ensino Superiors,Management,Yes,1,1-2 Milhas,América do Norte,56,No
+18329,Solteiro,Masculino,30000,0,Ensino Médio Incompleto,Clerical,No,2,5-10 Milhas,América do Norte,27,No
+29037,Casado,Masculino,60000,0,Pós-Graduação,Professional,No,0,0-1 Milhas,América do Norte,39,No
+26576,Casado,Feminino,60000,0,Superior Incompleto,Skilled Manual,Yes,2,5-10 Milhas,América do Norte,31,No
+12192,Solteiro,Feminino,60000,2,Ensino Médio Incompleto,Skilled Manual,No,2,1-2 Milhas,América do Norte,51,No
+14887,Casado,Feminino,30000,1,Ensino Médio,Clerical,Yes,1,5-10 Milhas,América do Norte,52,No
+11734,Casado,Masculino,60000,1,Superior Incompleto,Skilled Manual,No,1,0-1 Milhas,América do Norte,47,No
+17462,Casado,Masculino,70000,3,Pós-Graduação,Management,Yes,2,5-10 Milhas,América do Norte,53,Yes
+20659,Casado,Masculino,70000,3,Pós-Graduação,Professional,Yes,0,0-1 Milhas,América do Norte,35,Yes
+28004,Casado,Feminino,60000,3,Ensino Superiors,Management,Yes,2,10+ Milhas,América do Norte,66,No
+19741,Solteiro,Feminino,80000,4,Pós-Graduação,Management,Yes,2,5-10 Milhas,América do Norte,65,No
+17450,Casado,Masculino,80000,5,Superior Incompleto,Professional,Yes,3,5-10 Milhas,América do Norte,45,No
+17337,Solteiro,Masculino,40000,0,Ensino Médio,Skilled Manual,Yes,1,5-10 Milhas,América do Norte,31,No
+18594,Solteiro,Feminino,80000,3,Ensino Superiors,Skilled Manual,Yes,3,10+ Milhas,América do Norte,40,Yes
+15982,Casado,Masculino,110000,5,Superior Incompleto,Professional,Yes,4,2-5 Milhas,América do Norte,46,No
+28625,Solteiro,Masculino,40000,2,Superior Incompleto,Clerical,No,1,1-2 Milhas,América do Norte,47,Yes
+11269,Casado,Masculino,130000,2,Pós-Graduação,Management,Yes,2,0-1 Milhas,América do Norte,41,No
+25148,Casado,Masculino,60000,2,Ensino Médio,Professional,No,2,1-2 Milhas,América do Norte,48,Yes
+13920,Solteiro,Feminino,50000,4,Ensino Superiors,Skilled Manual,Yes,2,0-1 Milhas,América do Norte,42,No
+23704,Solteiro,Masculino,40000,5,Ensino Médio,Professional,Yes,4,10+ Milhas,América do Norte,60,Yes
+28972,Solteiro,Feminino,60000,3,Pós-Graduação,Management,Yes,2,10+ Milhas,América do Norte,66,No
+22730,Casado,Masculino,70000,5,Ensino Superiors,Management,Yes,2,10+ Milhas,América do Norte,63,No
+29134,Casado,Masculino,60000,4,Ensino Superiors,Skilled Manual,No,3,10+ Milhas,América do Norte,42,No
+14332,Solteiro,Feminino,30000,0,Ensino Médio,Skilled Manual,No,2,5-10 Milhas,América do Norte,26,No
+19117,Solteiro,Feminino,60000,1,Pós-Graduação,Professional,Yes,0,2-5 Milhas,América do Norte,36,Yes
+22864,Casado,Masculino,90000,2,Superior Incompleto,Professional,No,0,5-10 Milhas,América do Norte,49,Yes
+11292,Solteiro,Masculino,150000,1,Superior Incompleto,Professional,No,3,0-1 Milhas,América do Norte,44,Yes
+13466,Casado,Masculino,80000,5,Superior Incompleto,Professional,Yes,3,1-2 Milhas,América do Norte,46,No
+23731,Casado,Masculino,60000,2,Ensino Médio,Professional,Yes,2,2-5 Milhas,América do Norte,54,Yes
+28672,Solteiro,Masculino,70000,4,Pós-Graduação,Professional,Yes,0,2-5 Milhas,América do Norte,35,Yes
+11809,Casado,Masculino,60000,2,Ensino Superiors,Skilled Manual,Yes,0,0-1 Milhas,América do Norte,38,Yes
+19664,Solteiro,Masculino,100000,3,Ensino Superiors,Management,No,3,1-2 Milhas,América do Norte,38,No
+12121,Solteiro,Masculino,60000,3,Ensino Médio,Professional,Yes,2,10+ Milhas,América do Norte,53,Yes
